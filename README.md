@@ -16,4 +16,4 @@ A Scrapy-based project to scrape UFC fight data, including event links, fighter 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/ufc-scraper.git
+   git clone https://github.com/Yahlawat/UFC_Data_WEBSCRAPING
