@@ -1,5 +1,19 @@
-ipykernel
-jupyter
-pandas
-numpy
-scrapy
+# Core Data Handling
+pandas          # Data manipulation and analysis
+numpy           # Numerical computing
+
+# Data Visualization
+matplotlib      # Plotting library
+seaborn         # Statistical data visualization
+
+# Web Scraping
+scrapy          # Web scraping framework
+requests        # HTTP requests for web scraping
+beautifulsoup4  # HTML parsing
+lxml            # XML and HTML parsing
+
+# Machine Learning & Data Processing
+scikit-learn    # Machine learning algorithms
+
+# Jupyter Notebook
+jupyter         # Interactive notebooks for analysis
