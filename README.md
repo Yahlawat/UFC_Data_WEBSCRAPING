@@ -10,7 +10,6 @@ This notebook combines web scraping and data wrangling to analyze UFC fight stat
 - **Web Scraping:** Uses Python libraries to extract structured data from websites.
 - **Data Wrangling:** Cleans and processes raw data for analysis.
 - **Exploratory Data Analysis (EDA):** Generates insights through visualization and statistics.
-- **Machine Learning (if applicable):** Uses models to predict or categorize data.
 
 ## Installation
 To install dependencies, run:
