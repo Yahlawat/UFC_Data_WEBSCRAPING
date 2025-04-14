@@ -1,19 +1,14 @@
 # Core Data Handling
-pandas          # Data manipulation and analysis
-numpy           # Numerical computing
-
-# Data Visualization
-matplotlib      # Plotting library
-seaborn         # Statistical data visualization
+pandas>=2.0.0
+numpy>=1.24.0
 
 # Web Scraping
-scrapy          # Web scraping framework
-requests        # HTTP requests for web scraping
-beautifulsoup4  # HTML parsing
-lxml            # XML and HTML parsing
+scrapy>=2.11.0
+requests>=2.31.0
 
-# Machine Learning & Data Processing
-scikit-learn    # Machine learning algorithms
+# System and Utilities
+os>=3.11.0
+datetime>=5.1.0
 
-# Jupyter Notebook
-jupyter         # Interactive notebooks for analysis
+# Text Processing
+re>=3.1.0

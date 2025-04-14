@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+Data/*.csv
+Data/*.xlsx
+Data/*.xls
+
+# Keep these directories
+!Data/
+!Images/
+!Scripts/
+!README.md
+!requirements.txt 
