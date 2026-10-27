@@ -43,13 +43,23 @@ sig_strike_fields = ["sig_str_head", "sig_str_body", "sig_str_leg", "sig_str_dis
 class UfcSpider(scrapy.Spider):
     name = "ufc_spider"
 
+    async def start(self):
+        """Start by sending a request to the completed events page (Scrapy 2.13+)."""
+
+        yield scrapy.Request(url=events_url, callback=self.parse_main)
+
     def start_requests(self):
-        """Start by sending a request to the completed events page."""
+        """Same as start(), for Scrapy older than 2.13."""
 
         yield scrapy.Request(url=events_url, callback=self.parse_main)
 
     def parse_main(self, response):
         """Extract event links from the page and follow them."""
+
+        # ufcstats.com sometimes serves a JavaScript bot check instead of the page
+        if b"Checking your browser" in response.body:
+            self.logger.error("Blocked by the site's bot check, no events scraped. Don't try to get around it.")
+            return
 
         # Extract event links
         event_links_on_page = response.css("a.b-link.b-link_style_black::attr(href)").getall()
@@ -272,7 +282,7 @@ def run_scraper():
     print("\nScraping Summary...")
     print(f"Event Links Found: {len(event_links)}")
     print(f"Fights Parsed: {len(fights)}")
-    print(f"Fights Without Stats: {(fights_df['stats_available'] == False).sum()}")
+    print(f"Fights Without Stats: {(fights_df.get('stats_available', pd.Series(dtype=object)) == False).sum()}")
     print(f"Errors: {len(errors)}")
     if not errors.empty:
         print(errors[["fight_link", "error", "error_type"]])

@@ -10,6 +10,9 @@ venv/
 # Scrapy
 .scrapy/
 
+# Cleaned data: rebuild with scripts/data_wrangling.py (see README)
+data/wrangled/
+
 # OS / editors
 .DS_Store
 .vscode/

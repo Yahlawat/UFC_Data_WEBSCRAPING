@@ -1,0 +1,606 @@
+fight_link,date,location,name_1,name_2,stage_name_1,stage_name_2,win_loss_1,win_loss_2,division,method,last_round,last_round_time,time_format,referee,stoppage_details,kd_1,kd_2,sig_str_1,sig_str_2,sig_str_perc_1,sig_str_perc_2,total_str_1,total_str_2,td_1,td_2,td_pct_1,td_pct_2,sub_att_1,sub_att_2,rev_1,rev_2,ctrl_1,ctrl_2,r1_kd_1,r1_kd_2,r1_sig_str_1,r1_sig_str_2,r1_sig_str_perc_1,r1_sig_str_perc_2,r1_total_str_1,r1_total_str_2,r1_td_1,r1_td_2,r1_td_pct_1,r1_td_pct_2,r1_sub_att_1,r1_sub_att_2,r1_rev_1,r1_rev_2,r1_ctrl_1,r1_ctrl_2,r2_kd_1,r2_kd_2,r2_sig_str_1,r2_sig_str_2,r2_sig_str_perc_1,r2_sig_str_perc_2,r2_total_str_1,r2_total_str_2,r2_td_1,r2_td_2,r2_td_pct_1,r2_td_pct_2,r2_sub_att_1,r2_sub_att_2,r2_rev_1,r2_rev_2,r2_ctrl_1,r2_ctrl_2,r3_kd_1,r3_kd_2,r3_sig_str_1,r3_sig_str_2,r3_sig_str_perc_1,r3_sig_str_perc_2,r3_total_str_1,r3_total_str_2,r3_td_1,r3_td_2,r3_td_pct_1,r3_td_pct_2,r3_sub_att_1,r3_sub_att_2,r3_rev_1,r3_rev_2,r3_ctrl_1,r3_ctrl_2,r4_kd_1,r4_kd_2,r4_sig_str_1,r4_sig_str_2,r4_sig_str_perc_1,r4_sig_str_perc_2,r4_total_str_1,r4_total_str_2,r4_td_1,r4_td_2,r4_td_pct_1,r4_td_pct_2,r4_sub_att_1,r4_sub_att_2,r4_rev_1,r4_rev_2,r4_ctrl_1,r4_ctrl_2,r5_kd_1,r5_kd_2,r5_sig_str_1,r5_sig_str_2,r5_sig_str_perc_1,r5_sig_str_perc_2,r5_total_str_1,r5_total_str_2,r5_td_1,r5_td_2,r5_td_pct_1,r5_td_pct_2,r5_sub_att_1,r5_sub_att_2,r5_rev_1,r5_rev_2,r5_ctrl_1,r5_ctrl_2,sig_str_head_1,sig_str_head_2,sig_str_body_1,sig_str_body_2,sig_str_leg_1,sig_str_leg_2,sig_str_dist_1,sig_str_dist_2,sig_str_clinch_1,sig_str_clinch_2,sig_str_ground_1,sig_str_ground_2,r1_sig_str_head_1,r1_sig_str_head_2,r1_sig_str_body_1,r1_sig_str_body_2,r1_sig_str_leg_1,r1_sig_str_leg_2,r1_sig_str_dist_1,r1_sig_str_dist_2,r1_sig_str_clinch_1,r1_sig_str_clinch_2,r1_sig_str_ground_1,r1_sig_str_ground_2,r2_sig_str_head_1,r2_sig_str_head_2,r2_sig_str_body_1,r2_sig_str_body_2,r2_sig_str_leg_1,r2_sig_str_leg_2,r2_sig_str_dist_1,r2_sig_str_dist_2,r2_sig_str_clinch_1,r2_sig_str_clinch_2,r2_sig_str_ground_1,r2_sig_str_ground_2,r3_sig_str_head_1,r3_sig_str_head_2,r3_sig_str_body_1,r3_sig_str_body_2,r3_sig_str_leg_1,r3_sig_str_leg_2,r3_sig_str_dist_1,r3_sig_str_dist_2,r3_sig_str_clinch_1,r3_sig_str_clinch_2,r3_sig_str_ground_1,r3_sig_str_ground_2,r4_sig_str_head_1,r4_sig_str_head_2,r4_sig_str_body_1,r4_sig_str_body_2,r4_sig_str_leg_1,r4_sig_str_leg_2,r4_sig_str_dist_1,r4_sig_str_dist_2,r4_sig_str_clinch_1,r4_sig_str_clinch_2,r4_sig_str_ground_1,r4_sig_str_ground_2,r5_sig_str_head_1,r5_sig_str_head_2,r5_sig_str_body_1,r5_sig_str_body_2,r5_sig_str_leg_1,r5_sig_str_leg_2,r5_sig_str_dist_1,r5_sig_str_dist_2,r5_sig_str_clinch_1,r5_sig_str_clinch_2,r5_sig_str_ground_1,r5_sig_str_ground_2,error,error_type
+http://ufcstats.com/fight-details/cbe954d004415b51,"
+      November 08, 2014
+    ","
+
+      Uberlandia, Minas Gerais, Brazil
+    ",Warlley Alves,Alan Jouban,,"""Brahma""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Keith Peterson,,0,0,47 of 106,79 of 156,44%,50%,51 of 111,96 of 173,1 of 1,0 of 0,100%,---,1,0,0,0,4:00,0:35,0,0,18 of 36,19 of 30,50%,63%,19 of 37,22 of 33,0 of 0,0 of 0,---,---,1,0,0,0,2:07,0:31,0,0,11 of 24,15 of 36,45%,41%,14 of 28,27 of 48,1 of 1,0 of 0,100%,---,0,0,0,0,1:51,0:00,0,0,18 of 46,45 of 90,39%,50%,18 of 46,47 of 92,0 of 0,0 of 0,---,---,0,0,0,0,0:02,0:04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40 of 96,54 of 120,6 of 9,14 of 22,1 of 1,11 of 14,31 of 81,71 of 143,4 of 9,8 of 13,12 of 16,0 of 0,16 of 33,11 of 21,2 of 3,5 of 5,0 of 0,3 of 4,4 of 14,12 of 22,2 of 6,7 of 8,12 of 16,0 of 0,9 of 22,8 of 26,1 of 1,4 of 6,1 of 1,3 of 4,11 of 24,15 of 36,0 of 0,0 of 0,0 of 0,0 of 0,15 of 41,35 of 73,3 of 5,5 of 11,0 of 0,5 of 6,16 of 43,44 of 85,2 of 3,1 of 5,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/4804776154430aad,"
+      March 04, 2017
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Iuri Alcantara,Luke Sanders,"""Marajo""","""Cool Hand""",W,L,Bantamweight Bout,Submission,2,3:13,3 Rnd (5-5-5),Marc Goddard,Kneebar From Bottom,0,0,23 of 75,94 of 134,30%,70%,27 of 79,134 of 182,1 of 2,1 of 2,50%,50%,1,0,0,0,0:06,3:38,0,0,13 of 41,75 of 94,31%,79%,15 of 43,107 of 132,1 of 1,1 of 1,100%,100%,0,0,0,0,0:03,2:40,0,0,10 of 34,19 of 40,29%,47%,12 of 36,27 of 50,0 of 1,0 of 1,0%,0%,1,0,0,0,0:03,0:58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12 of 59,90 of 127,5 of 10,4 of 7,6 of 6,0 of 0,19 of 71,15 of 47,1 of 1,4 of 6,3 of 3,75 of 81,5 of 32,73 of 91,5 of 6,2 of 3,3 of 3,0 of 0,10 of 38,8 of 22,0 of 0,0 of 0,3 of 3,67 of 72,7 of 27,17 of 36,0 of 4,2 of 4,3 of 3,0 of 0,9 of 33,7 of 25,1 of 1,4 of 6,0 of 0,8 of 9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a74a8c1e0a49070d,"
+      October 14, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Chris Gutierrez,Alatengheili,"""El Guapo""","""The Mongolian Knight""",W,L,Bantamweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Kerry Hatley,,0,0,110 of 197,38 of 133,55%,28%,115 of 203,39 of 134,0 of 0,2 of 4,---,50%,0,0,0,0,0:08,0:51,0,0,35 of 65,7 of 29,53%,24%,35 of 65,7 of 29,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,38 of 68,17 of 46,55%,36%,38 of 68,17 of 46,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,37 of 64,14 of 58,57%,24%,42 of 70,15 of 59,0 of 0,2 of 4,---,50%,0,0,0,0,0:08,0:51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44 of 96,25 of 108,10 of 20,10 of 21,56 of 81,3 of 4,110 of 195,38 of 130,0 of 2,0 of 2,0 of 0,0 of 1,10 of 25,5 of 25,4 of 4,1 of 3,21 of 36,1 of 1,35 of 65,7 of 29,0 of 0,0 of 0,0 of 0,0 of 0,16 of 35,11 of 33,3 of 9,5 of 12,19 of 24,1 of 1,38 of 68,17 of 46,0 of 0,0 of 0,0 of 0,0 of 0,18 of 36,9 of 50,3 of 7,4 of 6,16 of 21,1 of 2,37 of 62,14 of 55,0 of 2,0 of 2,0 of 0,0 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/b3bd27affa038e9c,"
+      December 21, 2019
+    ","
+
+      Busan, South Korea
+    ",JunYong Park,Marc-Andre Barriault,"""The Iron Turtle""","""Powerbar""",W,L,Middleweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Thomas Fan,,0,0,77 of 187,51 of 160,41%,31%,83 of 193,57 of 166,5 of 10,0 of 2,50%,0%,0,0,0,0,3:28,0:07,0,0,31 of 64,14 of 47,48%,29%,33 of 66,15 of 48,1 of 3,0 of 1,33%,0%,0,0,0,0,0:43,0:00,0,0,18 of 48,17 of 41,37%,41%,21 of 51,21 of 45,3 of 6,0 of 0,50%,---,0,0,0,0,2:12,0:00,0,0,28 of 75,20 of 72,37%,27%,29 of 76,21 of 73,1 of 1,0 of 1,100%,0%,0,0,0,0,0:33,0:07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59 of 166,22 of 119,12 of 15,8 of 11,6 of 6,21 of 30,69 of 174,49 of 155,8 of 13,2 of 5,0 of 0,0 of 0,20 of 52,5 of 35,6 of 7,2 of 2,5 of 5,7 of 10,30 of 63,14 of 46,1 of 1,0 of 1,0 of 0,0 of 0,13 of 41,10 of 32,4 of 6,2 of 2,1 of 1,5 of 7,14 of 41,16 of 38,4 of 7,1 of 3,0 of 0,0 of 0,26 of 73,7 of 52,2 of 2,4 of 7,0 of 0,9 of 13,25 of 70,19 of 71,3 of 5,1 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/19fe7177254802d1,"
+      March 08, 2025
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Mairon Santos,Francis Marshall,"""The Legend""","""Fire""",W,L,Featherweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Chris Tognoni,,0,0,58 of 129,39 of 143,44%,27%,78 of 154,64 of 179,0 of 1,3 of 5,0%,60%,0,0,0,0,0:02,2:35,0,0,18 of 42,16 of 45,42%,35%,18 of 42,36 of 76,0 of 1,0 of 2,0%,0%,0,0,0,0,0:02,0:35,0,0,19 of 36,8 of 40,52%,20%,19 of 36,8 of 40,0 of 0,2 of 2,---,100%,0,0,0,0,0:00,1:22,0,0,21 of 51,15 of 58,41%,25%,41 of 76,20 of 63,0 of 0,1 of 1,---,100%,0,0,0,0,0:00,0:38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29 of 80,32 of 136,14 of 30,1 of 1,15 of 19,6 of 6,57 of 128,39 of 142,1 of 1,0 of 0,0 of 0,0 of 1,5 of 21,10 of 39,4 of 10,1 of 1,9 of 11,5 of 5,17 of 41,16 of 44,1 of 1,0 of 0,0 of 0,0 of 1,10 of 23,8 of 40,4 of 7,0 of 0,5 of 6,0 of 0,19 of 36,8 of 40,0 of 0,0 of 0,0 of 0,0 of 0,14 of 36,14 of 57,6 of 13,0 of 0,1 of 2,1 of 1,21 of 51,15 of 58,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a5e240bcd7731725,"
+      November 19, 2016
+    ","
+
+      Sao Paulo, Sao Paulo, Brazil
+    ",Marcos Rogerio de Lima,Gadzhimurad Antigulov,"""Pezao""",,L,W,Light Heavyweight Bout,Submission,1,1:07,3 Rnd (5-5-5),Vitor Ribeiro,Guillotine Choke On Ground,0,0,2 of 6,0 of 4,33%,0%,11 of 15,0 of 4,0 of 0,1 of 1,---,100%,0,1,1,0,0:21,0:29,0,0,2 of 6,0 of 4,33%,0%,11 of 15,0 of 4,0 of 0,1 of 1,---,100%,0,1,1,0,0:21,0:29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2 of 6,0 of 4,0 of 0,0 of 0,0 of 0,0 of 0,0 of 4,0 of 4,2 of 2,0 of 0,0 of 0,0 of 0,2 of 6,0 of 4,0 of 0,0 of 0,0 of 0,0 of 0,0 of 4,0 of 4,2 of 2,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/e71a155192ff2f6c,"
+      July 07, 2016
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Gilbert Burns,Lukasz Sajewski,"""Durinho""","""Wookie""",W,L,Lightweight Bout,Submission,1,4:57,3 Rnd (5-5-5),Jason Herzog,Armbar From Back Control,0,0,13 of 30,14 of 30,43%,46%,16 of 34,15 of 31,1 of 5,0 of 1,20%,0%,1,0,0,0,1:21,0:47,0,0,13 of 30,14 of 30,43%,46%,16 of 34,15 of 31,1 of 5,0 of 1,20%,0%,1,0,0,0,1:21,0:47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8 of 23,8 of 21,5 of 7,5 of 8,0 of 0,1 of 1,6 of 21,12 of 25,4 of 5,2 of 5,3 of 4,0 of 0,8 of 23,8 of 21,5 of 7,5 of 8,0 of 0,1 of 1,6 of 21,12 of 25,4 of 5,2 of 5,3 of 4,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d7ae0993c7a378ee,"
+      June 03, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Kai Kara-France,Amir Albazi,"""Don't Blink""","""The Prince""",L,W,Flyweight Bout,Decision - Split,5,5:00,5 Rnd (5-5-5-5-5),Herb Dean,,0,0,99 of 283,43 of 145,34%,29%,133 of 323,64 of 173,2 of 2,1 of 9,100%,11%,0,1,0,0,0:58,6:10,0,0,13 of 40,6 of 23,32%,26%,20 of 47,12 of 31,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,1:01,0,0,16 of 55,11 of 37,29%,29%,17 of 56,12 of 38,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,0:17,0,0,9 of 19,3 of 9,47%,33%,30 of 44,15 of 26,1 of 1,1 of 2,100%,50%,0,1,0,0,0:47,3:36,0,0,27 of 65,5 of 29,41%,17%,29 of 67,7 of 31,1 of 1,0 of 2,100%,0%,0,0,0,0,0:11,0:23,0,0,34 of 104,18 of 47,32%,38%,37 of 109,18 of 47,0 of 0,0 of 3,---,0%,0,0,0,0,0:00,0:53,57 of 224,31 of 125,20 of 30,6 of 13,22 of 29,6 of 7,90 of 267,39 of 135,1 of 2,1 of 5,8 of 14,3 of 5,7 of 32,2 of 18,1 of 2,2 of 3,5 of 6,2 of 2,13 of 39,6 of 22,0 of 1,0 of 1,0 of 0,0 of 0,10 of 43,8 of 32,2 of 5,2 of 3,4 of 7,1 of 2,16 of 55,11 of 35,0 of 0,0 of 2,0 of 0,0 of 0,8 of 17,3 of 9,0 of 0,0 of 0,1 of 2,0 of 0,1 of 5,0 of 4,0 of 0,0 of 0,8 of 14,3 of 5,12 of 46,2 of 22,7 of 10,2 of 6,8 of 9,1 of 1,26 of 64,5 of 28,1 of 1,0 of 1,0 of 0,0 of 0,20 of 86,16 of 44,10 of 13,0 of 1,4 of 5,2 of 2,34 of 104,17 of 46,0 of 0,1 of 1,0 of 0,0 of 0,,
+http://ufcstats.com/fight-details/a1294453a28beda3,"
+      March 23, 2024
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Fernando Padilla,Luis Pajuelo,"""El Valiente""","""Corazon de Leon""",W,L,Featherweight Bout,Submission,1,2:45,3 Rnd (5-5-5),Jason Herzog,D'Arce Choke Standing,1,0,34 of 61,5 of 13,55%,38%,35 of 64,7 of 15,0 of 0,0 of 0,---,---,1,0,0,0,0:47,0:00,1,0,34 of 61,5 of 13,55%,38%,35 of 64,7 of 15,0 of 0,0 of 0,---,---,1,0,0,0,0:47,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24 of 49,1 of 9,6 of 8,2 of 2,4 of 4,2 of 2,17 of 32,5 of 13,0 of 0,0 of 0,17 of 29,0 of 0,24 of 49,1 of 9,6 of 8,2 of 2,4 of 4,2 of 2,17 of 32,5 of 13,0 of 0,0 of 0,17 of 29,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/291bebbbf4f9128f,"
+      June 08, 2013
+    ","
+
+      Fortaleza, Ceara, Brazil
+    ",Rodrigo Damm,Mizuto Hirota,,"""Pugnus""",W,L,Featherweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Mario Yamasaki,,0,0,76 of 162,102 of 199,46%,51%,77 of 163,113 of 212,2 of 7,0 of 1,28%,0%,0,0,0,0,1:44,0:00,0,0,19 of 41,26 of 43,46%,60%,20 of 42,37 of 56,1 of 3,0 of 0,33%,---,0,0,0,0,1:30,0:00,0,0,27 of 65,40 of 77,41%,51%,27 of 65,40 of 77,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:00,0,0,30 of 56,36 of 79,53%,45%,30 of 56,36 of 79,1 of 3,0 of 1,33%,0%,0,0,0,0,0:14,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51 of 128,60 of 153,12 of 17,32 of 35,13 of 17,10 of 11,75 of 161,100 of 197,1 of 1,2 of 2,0 of 0,0 of 0,11 of 30,15 of 30,4 of 6,9 of 11,4 of 5,2 of 2,18 of 40,24 of 41,1 of 1,2 of 2,0 of 0,0 of 0,20 of 54,24 of 60,3 of 4,9 of 9,4 of 7,7 of 8,27 of 65,40 of 77,0 of 0,0 of 0,0 of 0,0 of 0,20 of 44,21 of 63,5 of 7,14 of 15,5 of 5,1 of 1,30 of 56,36 of 79,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/2dd864ec1a1a4031,"
+      February 26, 2011
+    ","
+
+      Sydney, New South Wales, Australia
+    ",George Sotiropoulos,Dennis Siver,,,L,W,Lightweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Leon Roberts,,0,2,38 of 204,74 of 226,18%,32%,38 of 204,79 of 231,0 of 13,0 of 0,0%,---,0,0,0,0,0:08,0:19,0,2,9 of 46,24 of 70,19%,34%,9 of 46,29 of 75,0 of 5,0 of 0,0%,---,0,0,0,0,0:08,0:19,0,0,14 of 76,16 of 73,18%,21%,14 of 76,16 of 73,0 of 3,0 of 0,0%,---,0,0,0,0,0:00,0:00,0,0,15 of 82,34 of 83,18%,40%,15 of 82,34 of 83,0 of 5,0 of 0,0%,---,0,0,0,0,0:00,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28 of 176,40 of 181,6 of 18,12 of 17,4 of 10,22 of 28,38 of 200,67 of 214,0 of 4,4 of 9,0 of 0,3 of 3,6 of 39,14 of 55,2 of 5,4 of 7,1 of 2,6 of 8,9 of 46,19 of 63,0 of 0,2 of 4,0 of 0,3 of 3,11 of 67,10 of 66,3 of 7,2 of 2,0 of 2,4 of 5,14 of 72,14 of 68,0 of 4,2 of 5,0 of 0,0 of 0,11 of 70,16 of 60,1 of 6,6 of 8,3 of 6,12 of 15,15 of 82,34 of 83,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/2ebe2ae9b4812f0a,"
+      March 01, 2014
+    ","
+
+      Macau, China
+    ",Jumabieke Tuerxun,Mark Eddiva,"""The Wild Wolf""",,L,W,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Jerin Valel,,0,0,12 of 34,49 of 88,35%,55%,33 of 60,141 of 189,1 of 9,4 of 10,11%,40%,2,0,0,0,0:50,10:20,0,0,2 of 8,21 of 30,25%,70%,7 of 13,54 of 65,0 of 0,2 of 4,---,50%,0,0,0,0,0:00,4:00,0,0,6 of 18,15 of 35,33%,42%,7 of 21,45 of 68,1 of 5,1 of 4,20%,25%,0,0,0,0,0:45,2:33,0,0,4 of 8,13 of 23,50%,56%,19 of 26,42 of 56,0 of 4,1 of 2,0%,50%,2,0,0,0,0:05,3:47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6 of 28,22 of 55,4 of 4,11 of 13,2 of 2,16 of 20,3 of 14,15 of 45,7 of 18,19 of 25,2 of 2,15 of 18,0 of 6,9 of 15,1 of 1,9 of 11,1 of 1,3 of 4,1 of 5,5 of 10,1 of 3,6 of 7,0 of 0,10 of 13,3 of 15,7 of 25,2 of 2,0 of 0,1 of 1,8 of 10,2 of 8,6 of 22,3 of 9,8 of 12,1 of 1,1 of 1,3 of 7,6 of 15,1 of 1,2 of 2,0 of 0,5 of 6,0 of 1,4 of 13,3 of 6,5 of 6,1 of 1,4 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/390694c179f05c7f,"
+      March 27, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Jamie Mullarkey,Khama Worthy,,"""The Death Star""",W,L,Lightweight Bout,KO/TKO,1,0:46,3 Rnd (5-5-5),Chris Tognoni,Punch to Head At Distance,1,0,6 of 13,5 of 10,46%,50%,6 of 13,5 of 10,0 of 0,0 of 0,---,---,0,0,0,0,0:04,0:00,1,0,6 of 13,5 of 10,46%,50%,6 of 13,5 of 10,0 of 0,0 of 0,---,---,0,0,0,0,0:04,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 of 11,3 of 8,0 of 0,0 of 0,1 of 2,2 of 2,3 of 9,5 of 10,0 of 0,0 of 0,3 of 4,0 of 0,5 of 11,3 of 8,0 of 0,0 of 0,1 of 2,2 of 2,3 of 9,5 of 10,0 of 0,0 of 0,3 of 4,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/85036b967403cdab,"
+      February 02, 2019
+    ","
+
+      Fortaleza, Ceara, Brazil
+    ",Charles Oliveira,David Teymur,"""Do Bronxs""",,W,L,Lightweight Bout,Submission,2,0:55,3 Rnd (5-5-5),Jerin Valel,Anaconda Choke On Ground,0,1,28 of 58,26 of 53,48%,49%,31 of 61,31 of 59,1 of 1,0 of 0,100%,---,1,0,0,0,0:13,0:35,0,1,15 of 38,22 of 43,39%,51%,18 of 41,27 of 49,1 of 1,0 of 0,100%,---,0,0,0,0,0:08,0:35,0,0,13 of 20,4 of 10,65%,40%,13 of 20,4 of 10,0 of 0,0 of 0,---,---,1,0,0,0,0:05,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21 of 42,16 of 40,4 of 12,6 of 8,3 of 4,4 of 5,21 of 45,23 of 47,7 of 13,0 of 0,0 of 0,3 of 6,10 of 24,14 of 32,3 of 11,4 of 6,2 of 3,4 of 5,15 of 36,19 of 37,0 of 2,0 of 0,0 of 0,3 of 6,11 of 18,2 of 8,1 of 1,2 of 2,1 of 1,0 of 0,6 of 9,4 of 10,7 of 11,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/95d46f7a7e72f91c,"
+      March 19, 2016
+    ","
+
+      Brisbane, Queensland, Australia
+    ",Alan Patrick,Damien Brown,"""Nuguette""","""Beatdown""",W,L,Lightweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Greg Kleynjans,,0,0,25 of 39,15 of 25,64%,60%,117 of 147,51 of 64,5 of 7,1 of 3,71%,33%,1,1,0,0,12:21,0:36,0,0,8 of 13,8 of 12,61%,66%,37 of 45,19 of 24,2 of 2,1 of 2,100%,50%,1,0,0,0,3:25,0:36,0,0,10 of 18,3 of 6,55%,50%,61 of 81,28 of 33,1 of 2,0 of 0,50%,---,0,1,0,0,4:48,0:00,0,0,7 of 8,4 of 7,87%,57%,19 of 21,4 of 7,2 of 3,0 of 1,66%,0%,0,0,0,0,4:08,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23 of 36,13 of 21,1 of 2,2 of 3,1 of 1,0 of 1,7 of 12,6 of 11,0 of 0,1 of 2,18 of 27,8 of 12,7 of 11,7 of 11,1 of 2,1 of 1,0 of 0,0 of 0,4 of 7,3 of 5,0 of 0,0 of 0,4 of 6,5 of 7,9 of 17,3 of 5,0 of 0,0 of 1,1 of 1,0 of 0,1 of 2,0 of 0,0 of 0,0 of 1,9 of 16,3 of 5,7 of 8,3 of 5,0 of 0,1 of 1,0 of 0,0 of 1,2 of 3,3 of 6,0 of 0,1 of 1,5 of 5,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/35c8223cc967fe0a,"
+      November 16, 2024
+    ","
+
+      New York City, New York, USA
+    ",Jim Miller,Damon Jackson,"""A-10""","""The Leech""",W,L,Lightweight Bout,Submission,1,2:44,3 Rnd (5-5-5),Keith Peterson,Guillotine Choke After Drop to Guard,0,0,10 of 24,16 of 31,41%,51%,11 of 25,16 of 31,0 of 0,0 of 3,---,0%,1,0,0,0,0:00,0:27,0,0,10 of 24,16 of 31,41%,51%,11 of 25,16 of 31,0 of 0,0 of 3,---,0%,1,0,0,0,0:00,0:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 of 19,8 of 17,2 of 2,6 of 12,3 of 3,2 of 2,9 of 23,16 of 31,1 of 1,0 of 0,0 of 0,0 of 0,5 of 19,8 of 17,2 of 2,6 of 12,3 of 3,2 of 2,9 of 23,16 of 31,1 of 1,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/7cdda45e7d52bf40,"
+      September 22, 2018
+    ","
+
+      Sao Paulo, Sao Paulo, Brazil
+    ",Thiago Santos,Eryk Anders,"""Marreta""","""Ya Boi""",W,L,Light Heavyweight Bout,KO/TKO,3,5:00,5 Rnd (5-5-5-5-5),Marc Goddard,to,0,0,100 of 152,32 of 67,65%,47%,115 of 167,34 of 69,1 of 1,6 of 10,100%,60%,0,1,1,0,1:52,5:53,0,0,19 of 29,6 of 16,65%,37%,22 of 32,6 of 16,1 of 1,2 of 3,100%,66%,0,0,0,0,0:02,2:07,0,0,27 of 58,12 of 33,46%,36%,29 of 60,12 of 33,0 of 0,1 of 3,---,33%,0,0,0,0,1:33,0:32,0,0,54 of 65,14 of 18,83%,77%,64 of 75,16 of 20,0 of 0,3 of 4,---,75%,0,1,1,0,0:17,3:14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65 of 109,26 of 59,25 of 33,5 of 7,10 of 10,1 of 1,41 of 82,17 of 48,46 of 48,6 of 9,13 of 22,9 of 10,6 of 12,3 of 13,10 of 14,2 of 2,3 of 3,1 of 1,8 of 18,2 of 11,11 of 11,4 of 5,0 of 0,0 of 0,16 of 45,9 of 29,9 of 11,3 of 4,2 of 2,0 of 0,19 of 42,11 of 30,0 of 0,0 of 1,8 of 16,1 of 2,43 of 52,14 of 17,6 of 8,0 of 1,5 of 5,0 of 0,14 of 22,4 of 7,35 of 37,2 of 3,5 of 6,8 of 8,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/42a353676554ecf2,"
+      November 12, 2011
+    ","
+
+      Anaheim, California, USA
+    ",Mike Pierce,Paul Bradley,,"""The Gentleman""",W,L,Welterweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Larry Landless,,0,0,75 of 144,63 of 145,52%,43%,133 of 206,69 of 155,0 of 1,0 of 4,0%,0%,0,0,0,0,0:36,1:03,0,0,24 of 56,17 of 39,42%,43%,34 of 67,18 of 40,0 of 0,0 of 1,---,0%,0,0,0,0,0:16,0:30,0,0,17 of 31,22 of 45,54%,48%,35 of 52,24 of 49,0 of 1,0 of 1,0%,0%,0,0,0,0,0:20,0:00,0,0,34 of 57,24 of 61,59%,39%,64 of 87,27 of 66,0 of 0,0 of 2,---,0%,0,0,0,0,0:00,0:33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51 of 116,46 of 124,14 of 14,10 of 11,10 of 14,7 of 10,59 of 127,51 of 130,13 of 14,12 of 15,3 of 3,0 of 0,14 of 44,11 of 30,5 of 5,4 of 5,5 of 7,2 of 4,20 of 51,14 of 36,4 of 5,3 of 3,0 of 0,0 of 0,12 of 25,16 of 38,2 of 2,3 of 3,3 of 4,3 of 4,11 of 25,17 of 39,6 of 6,5 of 6,0 of 0,0 of 0,25 of 47,19 of 56,7 of 7,3 of 3,2 of 3,2 of 2,28 of 51,20 of 55,3 of 3,4 of 6,3 of 3,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d39ce3ecd3fbdadf,"
+      April 06, 2006
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Stephan Bonnar,Keith Jardine,"""The American Psycho""","""The Dean of Mean""",W,L,Light Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),John McCarthy,,1,0,33 of 93,64 of 118,35%,54%,52 of 113,90 of 146,1 of 6,0 of 1,16%,0%,1,0,0,0,3:54,0:28,0,0,11 of 32,25 of 41,34%,60%,19 of 41,31 of 47,0 of 1,0 of 1,0%,0%,0,0,0,0,0:54,0:27,0,0,11 of 29,9 of 29,37%,31%,16 of 34,22 of 44,1 of 2,0 of 0,50%,---,1,0,0,0,1:23,0:00,1,0,11 of 32,30 of 48,34%,62%,17 of 38,37 of 55,0 of 3,0 of 0,0%,---,0,0,0,0,1:37,0:01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 of 77,34 of 81,10 of 10,15 of 17,3 of 6,15 of 20,24 of 84,46 of 99,9 of 9,18 of 19,0 of 0,0 of 0,8 of 28,12 of 27,2 of 2,8 of 8,1 of 2,5 of 6,10 of 31,16 of 32,1 of 1,9 of 9,0 of 0,0 of 0,7 of 25,4 of 19,4 of 4,2 of 4,0 of 0,3 of 6,8 of 26,6 of 25,3 of 3,3 of 4,0 of 0,0 of 0,5 of 24,18 of 35,4 of 4,5 of 5,2 of 4,7 of 8,6 of 27,24 of 42,5 of 5,6 of 6,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/6eb4b84c4b10854a,"
+      January 30, 2016
+    ","
+
+      Newark, New Jersey, USA
+    ",George Sullivan,Alexander Yakovlev,"""The Silencer""","""Russian Thunder""",L,W,Welterweight Bout,KO/TKO,1,3:59,3 Rnd (5-5-5),Gasper Oliver,Punches to Head At Distance,0,1,14 of 22,15 of 18,63%,83%,19 of 27,17 of 20,0 of 0,2 of 2,---,100%,0,0,0,0,1:42,0:00,0,1,14 of 22,15 of 18,63%,83%,19 of 27,17 of 20,0 of 0,2 of 2,---,100%,0,0,0,0,1:42,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 of 6,5 of 7,5 of 5,5 of 6,8 of 11,5 of 5,11 of 19,8 of 10,3 of 3,3 of 4,0 of 0,4 of 4,1 of 6,5 of 7,5 of 5,5 of 6,8 of 11,5 of 5,11 of 19,8 of 10,3 of 3,3 of 4,0 of 0,4 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/826fb989c0e6208e,"
+      March 16, 2019
+    ","
+
+      London, England, United Kingdom
+    ",Volkan Oezdemir,Dominick Reyes,"""No Time""","""The Devastator""",L,W,Light Heavyweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Leon Roberts,,0,0,35 of 99,44 of 121,35%,36%,48 of 112,47 of 124,1 of 7,0 of 2,14%,0%,0,0,0,0,1:33,0:00,0,0,12 of 41,10 of 30,29%,33%,16 of 45,10 of 30,1 of 1,0 of 0,100%,---,0,0,0,0,0:46,0:00,0,0,12 of 35,16 of 39,34%,41%,14 of 37,16 of 39,0 of 3,0 of 2,0%,0%,0,0,0,0,0:07,0:00,0,0,11 of 23,18 of 52,47%,34%,18 of 30,21 of 55,0 of 3,0 of 0,0%,---,0,0,0,0,0:40,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24 of 81,16 of 81,4 of 6,16 of 26,7 of 12,12 of 14,30 of 91,41 of 117,5 of 7,3 of 4,0 of 1,0 of 0,6 of 32,2 of 19,4 of 5,4 of 7,2 of 4,4 of 4,11 of 39,9 of 28,1 of 1,1 of 2,0 of 1,0 of 0,9 of 28,5 of 24,0 of 1,5 of 8,3 of 6,6 of 7,9 of 30,15 of 38,3 of 5,1 of 1,0 of 0,0 of 0,9 of 21,9 of 38,0 of 0,7 of 11,2 of 2,2 of 3,10 of 22,17 of 51,1 of 1,1 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/ed94cdc0f2b97e15,"
+      January 25, 2020
+    ","
+
+      Raleigh, North Carolina, USA
+    ",Arnold Allen,Nik Lentz,"""Almighty""","""The Carny""",W,L,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Wayne Spinola,,0,0,63 of 131,49 of 172,48%,28%,68 of 137,63 of 190,0 of 1,0 of 9,0%,0%,0,0,0,0,1:21,1:17,0,0,20 of 41,16 of 49,48%,32%,20 of 41,20 of 55,0 of 1,0 of 4,0%,0%,0,0,0,0,0:07,0:56,0,0,29 of 56,24 of 68,51%,35%,30 of 57,27 of 73,0 of 0,0 of 2,---,0%,0,0,0,0,0:17,0:17,0,0,14 of 34,9 of 55,41%,16%,18 of 39,16 of 62,0 of 0,0 of 3,---,0%,0,0,0,0,0:57,0:04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58 of 124,25 of 140,5 of 7,16 of 23,0 of 0,8 of 9,61 of 128,42 of 162,2 of 3,7 of 10,0 of 0,0 of 0,19 of 39,8 of 41,1 of 2,6 of 6,0 of 0,2 of 2,20 of 41,14 of 47,0 of 0,2 of 2,0 of 0,0 of 0,27 of 53,13 of 54,2 of 3,8 of 10,0 of 0,3 of 4,28 of 54,19 of 60,1 of 2,5 of 8,0 of 0,0 of 0,12 of 32,4 of 45,2 of 2,2 of 7,0 of 0,3 of 3,13 of 33,9 of 55,1 of 1,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/11aac355349ecc94,"
+      July 12, 2015
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Jorge Masvidal,Cezar Ferreira,"""Gamebred""","""Mutante""",W,L,Welterweight Bout,KO/TKO,1,4:22,3 Rnd (5-5-5),John McCarthy,Elbow to Head In Clinch,1,0,12 of 23,7 of 18,52%,38%,14 of 25,9 of 20,0 of 0,1 of 3,---,33%,0,0,0,0,0:02,1:31,1,0,12 of 23,7 of 18,52%,38%,14 of 25,9 of 20,0 of 0,1 of 3,---,33%,0,0,0,0,0:02,1:31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8 of 17,5 of 10,3 of 4,2 of 6,1 of 2,0 of 2,5 of 15,6 of 16,3 of 4,1 of 2,4 of 4,0 of 0,8 of 17,5 of 10,3 of 4,2 of 6,1 of 2,0 of 2,5 of 15,6 of 16,3 of 4,1 of 2,4 of 4,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/997753de17f81e3a,"
+      March 05, 1999
+    ","
+
+      Bay St. Louis, Mississippi, USA
+    ",Kevin Randleman,Maurice Smith,"""The Monster""",,W,L,Heavyweight Bout,Decision - Unanimous,2,3:00,1 Rnd + OT (12-3),John McCarthy,,0,0,17 of 49,9 of 16,34%,56%,39 of 77,14 of 21,4 of 4,0 of 0,100%,---,0,2,0,0,--,--,0,0,10 of 34,7 of 14,29%,50%,22 of 52,12 of 19,3 of 3,0 of 0,100%,---,0,2,0,0,--,--,0,0,7 of 15,2 of 2,46%,100%,17 of 25,2 of 2,1 of 1,0 of 0,100%,---,0,0,0,0,--,--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17 of 49,2 of 9,0 of 0,2 of 2,0 of 0,5 of 5,4 of 18,6 of 13,1 of 2,3 of 3,12 of 29,0 of 0,10 of 34,1 of 8,0 of 0,2 of 2,0 of 0,4 of 4,4 of 15,4 of 11,0 of 1,3 of 3,6 of 18,0 of 0,7 of 15,1 of 1,0 of 0,0 of 0,0 of 0,1 of 1,0 of 3,2 of 2,1 of 1,0 of 0,6 of 11,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a941c4e25ddddfff,"
+      April 22, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Francis Marshall,William Gomis,"""Fire""","""Jaguar""",L,W,Featherweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Keith Peterson,,0,0,15 of 132,27 of 79,11%,34%,35 of 165,30 of 84,2 of 5,0 of 0,40%,---,2,0,0,0,4:20,0:17,0,0,5 of 47,5 of 20,10%,25%,12 of 60,5 of 22,0 of 1,0 of 0,0%,---,0,0,0,0,1:16,0:00,0,0,6 of 56,12 of 34,10%,35%,6 of 56,14 of 36,0 of 0,0 of 0,---,---,0,0,0,0,0:11,0:17,0,0,4 of 29,10 of 25,13%,40%,17 of 49,11 of 26,2 of 4,0 of 0,50%,---,2,0,0,0,2:53,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10 of 123,6 of 47,4 of 8,8 of 17,1 of 1,13 of 15,13 of 129,27 of 78,0 of 0,0 of 1,2 of 3,0 of 0,4 of 46,1 of 14,1 of 1,4 of 6,0 of 0,0 of 0,5 of 47,5 of 20,0 of 0,0 of 0,0 of 0,0 of 0,3 of 51,4 of 19,2 of 4,4 of 10,1 of 1,4 of 5,6 of 56,12 of 34,0 of 0,0 of 0,0 of 0,0 of 0,3 of 26,1 of 14,1 of 3,0 of 1,0 of 0,9 of 10,2 of 26,10 of 24,0 of 0,0 of 1,2 of 3,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/0fd639e6e28c51bb,"
+      December 08, 2007
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Mac Danzig,Tommy Speer,,,W,L,Ultimate Fighter 6 Welterweight Tournament Title Bout,Submission,1,2:01,3 Rnd (5-5-5),Yves Lavigne,Rear Naked Choke,0,0,10 of 14,4 of 7,71%,57%,36 of 41,5 of 8,1 of 2,0 of 0,50%,---,1,0,0,0,1:14,0:28,0,0,10 of 14,4 of 7,71%,57%,36 of 41,5 of 8,1 of 2,0 of 0,50%,---,1,0,0,0,1:14,0:28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 of 8,0 of 2,5 of 6,2 of 3,0 of 0,2 of 2,0 of 0,0 of 2,5 of 6,4 of 5,5 of 8,0 of 0,5 of 8,0 of 2,5 of 6,2 of 3,0 of 0,2 of 2,0 of 0,0 of 2,5 of 6,4 of 5,5 of 8,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d4eb3614c7734781,"
+      October 28, 2017
+    ","
+
+      Sao Paulo, Sao Paulo, Brazil
+    ",John Lineker,Marlon Vera,"""Hands of Stone""","""Chito""",W,L,Bantamweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Mario Yamasaki,,0,0,77 of 171,49 of 117,45%,41%,93 of 188,50 of 118,0 of 0,0 of 0,---,---,0,0,0,0,1:35,0:00,0,0,23 of 44,11 of 26,52%,42%,23 of 44,11 of 26,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,36 of 67,21 of 40,53%,52%,50 of 82,21 of 40,0 of 0,0 of 0,---,---,0,0,0,0,0:55,0:00,0,0,18 of 60,17 of 51,30%,33%,20 of 62,18 of 52,0 of 0,0 of 0,---,---,0,0,0,0,0:40,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33 of 96,21 of 68,33 of 58,10 of 24,11 of 17,18 of 25,58 of 144,43 of 108,7 of 12,6 of 9,12 of 15,0 of 0,6 of 20,2 of 12,13 of 17,2 of 5,4 of 7,7 of 9,20 of 38,11 of 26,3 of 6,0 of 0,0 of 0,0 of 0,20 of 39,10 of 22,10 of 22,6 of 10,6 of 6,5 of 8,21 of 49,18 of 36,3 of 3,3 of 4,12 of 15,0 of 0,7 of 37,9 of 34,10 of 19,2 of 9,1 of 4,6 of 8,17 of 57,14 of 46,1 of 3,3 of 5,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/dc5e46b2ee0898ec,"
+      October 05, 2012
+    ","
+
+      Minneapolis, Minnesota, USA
+    ",John Dodson,Jussier Formiga,"""The Magician""",,W,L,Flyweight Bout,KO/TKO,2,4:35,3 Rnd (5-5-5),Darryl Guthmiller,Punch to Head At Distance,2,0,33 of 112,9 of 37,29%,24%,36 of 115,9 of 37,0 of 2,0 of 5,0%,0%,0,0,0,0,0:18,0:00,0,0,9 of 43,6 of 20,20%,30%,9 of 43,6 of 20,0 of 2,0 of 3,0%,0%,0,0,0,0,0:00,0:00,2,0,24 of 69,3 of 17,34%,17%,27 of 72,3 of 17,0 of 0,0 of 2,---,0%,0,0,0,0,0:18,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 of 93,8 of 36,8 of 14,1 of 1,5 of 5,0 of 0,23 of 102,9 of 37,0 of 0,0 of 0,10 of 10,0 of 0,3 of 33,5 of 19,4 of 8,1 of 1,2 of 2,0 of 0,9 of 43,6 of 20,0 of 0,0 of 0,0 of 0,0 of 0,17 of 60,3 of 17,4 of 6,0 of 0,3 of 3,0 of 0,14 of 59,3 of 17,0 of 0,0 of 0,10 of 10,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/01e5e4099f03f20e,"
+      March 02, 2012
+    ","
+
+      Sydney, New South Wales, Australia
+    ",Court McGee,Constantinos Philippou,"""The Crusher""",,L,W,Middleweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),John Sharp,,0,0,58 of 167,60 of 155,34%,38%,70 of 181,62 of 157,0 of 8,0 of 0,0%,---,0,0,0,0,0:38,0:02,0,0,18 of 45,14 of 40,40%,35%,19 of 47,14 of 40,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:00,0,0,16 of 57,27 of 62,28%,43%,24 of 66,28 of 63,0 of 3,0 of 0,0%,---,0,0,0,0,0:19,0:00,0,0,24 of 65,19 of 53,36%,35%,27 of 68,20 of 54,0 of 4,0 of 0,0%,---,0,0,0,0,0:19,0:02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31 of 129,55 of 147,15 of 22,4 of 7,12 of 16,1 of 1,54 of 159,60 of 155,4 of 8,0 of 0,0 of 0,0 of 0,11 of 36,13 of 37,2 of 4,1 of 3,5 of 5,0 of 0,17 of 44,14 of 40,1 of 1,0 of 0,0 of 0,0 of 0,8 of 46,26 of 60,5 of 6,1 of 2,3 of 5,0 of 0,14 of 55,27 of 62,2 of 2,0 of 0,0 of 0,0 of 0,12 of 47,16 of 50,8 of 12,2 of 2,4 of 6,1 of 1,23 of 60,19 of 53,1 of 5,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/e2503ed6a1f9257d,"
+      March 14, 2020
+    ","
+
+      Brasilia, Distrito Federal, Brazil
+    ",Rani Yahya,Enrique Barzola,,"""El Fuerte""",D,D,Bantamweight Bout,Decision - Majority,3,5:00,3 Rnd (5-5-5),Julio Catarino,,0,0,24 of 45,57 of 86,53%,66%,58 of 83,148 of 187,2 of 5,1 of 2,40%,50%,0,1,1,1,4:48,6:49,0,0,17 of 29,10 of 21,58%,47%,20 of 32,33 of 49,1 of 3,0 of 1,33%,0%,0,0,1,0,1:47,1:04,0,0,7 of 13,6 of 17,53%,35%,35 of 44,30 of 42,1 of 1,1 of 1,100%,100%,0,0,0,1,3:01,0:59,0,0,0 of 3,41 of 48,0%,85%,3 of 7,85 of 96,0 of 1,0 of 0,0%,---,0,1,0,0,0:00,4:46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12 of 30,39 of 65,5 of 7,18 of 20,7 of 8,0 of 1,19 of 38,10 of 36,1 of 2,1 of 1,4 of 5,46 of 49,8 of 19,6 of 16,3 of 4,4 of 5,6 of 6,0 of 0,15 of 27,5 of 16,0 of 0,1 of 1,2 of 2,4 of 4,4 of 8,5 of 15,2 of 3,1 of 1,1 of 2,0 of 1,4 of 9,3 of 14,1 of 1,0 of 0,2 of 3,3 of 3,0 of 3,28 of 34,0 of 0,13 of 14,0 of 0,0 of 0,0 of 2,2 of 6,0 of 1,0 of 0,0 of 0,39 of 42,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/8794031c523bf534,"
+      June 17, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Zac Pauga,Modestas Bukauskas,"""The High Chief""","""The Baltic Gladiator""",L,W,Light Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Mark Smith,,0,0,67 of 117,56 of 112,57%,50%,72 of 123,62 of 120,1 of 5,0 of 0,20%,---,0,0,0,0,2:17,1:20,0,0,15 of 29,13 of 29,51%,44%,20 of 35,14 of 31,1 of 3,0 of 0,33%,---,0,0,0,0,2:04,0:00,0,0,27 of 48,23 of 40,56%,57%,27 of 48,23 of 40,0 of 1,0 of 0,0%,---,0,0,0,0,0:10,0:01,0,0,25 of 40,20 of 43,62%,46%,25 of 40,25 of 49,0 of 1,0 of 0,0%,---,0,0,0,0,0:03,1:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35 of 80,42 of 96,25 of 30,10 of 12,7 of 7,4 of 4,58 of 105,50 of 102,7 of 10,5 of 9,2 of 2,1 of 1,11 of 23,9 of 25,2 of 4,2 of 2,2 of 2,2 of 2,11 of 25,12 of 28,2 of 2,0 of 0,2 of 2,1 of 1,14 of 33,18 of 35,10 of 12,3 of 3,3 of 3,2 of 2,26 of 46,21 of 37,1 of 2,2 of 3,0 of 0,0 of 0,10 of 24,15 of 36,13 of 14,5 of 7,2 of 2,0 of 0,21 of 34,17 of 37,4 of 6,3 of 6,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/53ed3f8f653b37b2,"
+      June 19, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Kanako Murata,Virna Jandiroba,,"""Carcara""",L,W,Women's Strawweight Bout,TKO - Doctor's Stoppage,2,5:00,3 Rnd (5-5-5),Chris Tognoni,Arm Injury,0,0,23 of 44,36 of 80,52%,45%,26 of 48,39 of 83,0 of 1,0 of 0,0%,---,0,1,0,0,2:34,0:46,0,0,14 of 21,11 of 26,66%,42%,17 of 25,12 of 27,0 of 0,0 of 0,---,---,0,1,0,0,2:19,0:46,0,0,9 of 23,25 of 54,39%,46%,9 of 23,27 of 56,0 of 1,0 of 0,0%,---,0,0,0,0,0:15,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15 of 33,32 of 73,5 of 7,4 of 7,3 of 4,0 of 0,12 of 32,35 of 77,3 of 3,1 of 3,8 of 9,0 of 0,10 of 16,8 of 23,4 of 5,3 of 3,0 of 0,0 of 0,3 of 9,10 of 25,3 of 3,1 of 1,8 of 9,0 of 0,5 of 17,24 of 50,1 of 2,1 of 4,3 of 4,0 of 0,9 of 23,25 of 52,0 of 0,0 of 2,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/089388c9f00ce9c6,"
+      December 07, 2024
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Nate Landwehr,Dooho Choi,"""The Train""","""The Korean Superboy""",L,W,Featherweight Bout,KO/TKO,3,3:21,3 Rnd (5-5-5),Chris Tognoni,Elbows to Head From Crucifix,0,0,25 of 67,78 of 116,37%,67%,32 of 77,114 of 157,0 of 0,4 of 5,---,80%,0,0,0,0,0:42,7:13,0,0,9 of 25,40 of 66,36%,60%,11 of 29,40 of 66,0 of 0,1 of 2,---,50%,0,0,0,0,0:23,1:24,0,0,12 of 30,23 of 29,40%,79%,16 of 35,26 of 32,0 of 0,2 of 2,---,100%,0,0,0,0,0:19,3:00,0,0,4 of 12,15 of 21,33%,71%,5 of 13,48 of 59,0 of 0,1 of 1,---,100%,0,0,0,0,0:00,2:49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13 of 47,61 of 98,9 of 15,9 of 9,3 of 5,8 of 9,15 of 55,62 of 99,10 of 12,4 of 4,0 of 0,12 of 13,2 of 11,32 of 57,4 of 10,4 of 4,3 of 4,4 of 5,6 of 20,38 of 64,3 of 5,1 of 1,0 of 0,1 of 1,7 of 24,15 of 21,5 of 5,5 of 5,0 of 1,3 of 3,5 of 23,18 of 24,7 of 7,3 of 3,0 of 0,2 of 2,4 of 12,14 of 20,0 of 0,0 of 0,0 of 0,1 of 1,4 of 12,6 of 11,0 of 0,0 of 0,0 of 0,9 of 10,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d5ffdb5388ffabc6,"
+      October 09, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Randy Brown,Jared Gooden,"""Rudeboy""","""NiteTrain""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Herb Dean,,0,0,115 of 235,81 of 156,48%,51%,117 of 237,87 of 162,0 of 1,0 of 0,0%,---,0,0,0,0,0:06,0:44,0,0,28 of 60,25 of 51,46%,49%,28 of 60,26 of 52,0 of 0,0 of 0,---,---,0,0,0,0,0:01,0:18,0,0,37 of 88,30 of 47,42%,63%,37 of 88,30 of 47,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,50 of 87,26 of 58,57%,44%,52 of 89,31 of 63,0 of 1,0 of 0,0%,---,0,0,0,0,0:05,0:26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81 of 196,19 of 76,25 of 29,27 of 36,9 of 10,35 of 44,109 of 227,78 of 151,5 of 7,3 of 3,1 of 1,0 of 2,17 of 47,4 of 20,6 of 7,7 of 12,5 of 6,14 of 19,27 of 58,25 of 51,1 of 2,0 of 0,0 of 0,0 of 0,25 of 73,7 of 21,9 of 12,9 of 11,3 of 3,14 of 15,37 of 87,30 of 47,0 of 1,0 of 0,0 of 0,0 of 0,39 of 76,8 of 35,10 of 10,11 of 13,1 of 1,7 of 10,45 of 82,23 of 53,4 of 4,3 of 3,1 of 1,0 of 2,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/512af32553d9bd70,"
+      April 24, 2021
+    ","
+
+      Jacksonville, Florida, USA
+    ",Alex Oliveira,Randy Brown,"""Cowboy""","""Rudeboy""",L,W,Welterweight Bout,Submission,1,2:50,3 Rnd (5-5-5),Dan Miragliotta,"Rear Naked Choke
+      One-arm RNC",0,1,7 of 12,16 of 32,58%,50%,9 of 14,23 of 39,0 of 0,0 of 0,---,---,0,1,0,0,0:00,1:23,0,1,7 of 12,16 of 32,58%,50%,9 of 14,23 of 39,0 of 0,0 of 0,---,---,0,1,0,0,0:00,1:23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 of 6,10 of 24,1 of 1,1 of 2,5 of 5,5 of 6,7 of 12,8 of 21,0 of 0,0 of 0,0 of 0,8 of 11,1 of 6,10 of 24,1 of 1,1 of 2,5 of 5,5 of 6,7 of 12,8 of 21,0 of 0,0 of 0,0 of 0,8 of 11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/59861c3d19eb46ef,"
+      February 29, 2020
+    ","
+
+      Norfolk, Virginia, USA
+    ",Jordan Griffin,TJ Brown,"""Native Psycho""","""Downtown""",W,L,Featherweight Bout,Submission,2,3:38,3 Rnd (5-5-5),Mike King,Guillotine Choke From Bottom Side Control,0,0,15 of 23,32 of 47,65%,68%,20 of 28,91 of 119,0 of 1,7 of 7,0%,100%,3,0,0,0,0:05,7:32,0,0,5 of 8,18 of 24,62%,75%,7 of 10,56 of 70,0 of 1,4 of 4,0%,100%,2,0,0,0,0:05,4:29,0,0,10 of 15,14 of 23,66%,60%,13 of 18,35 of 49,0 of 0,3 of 3,---,100%,1,0,0,0,0:00,3:03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13 of 21,26 of 39,2 of 2,6 of 7,0 of 0,0 of 1,9 of 17,9 of 22,3 of 3,10 of 10,3 of 3,13 of 15,5 of 8,13 of 18,0 of 0,5 of 5,0 of 0,0 of 1,4 of 7,2 of 6,1 of 1,7 of 7,0 of 0,9 of 11,8 of 13,13 of 21,2 of 2,1 of 2,0 of 0,0 of 0,5 of 10,7 of 16,2 of 2,3 of 3,3 of 3,4 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/bb4755924dfafaea,"
+      June 23, 2018
+    ","
+
+      Kallang, Singapore
+    ",Ovince Saint Preux,Tyson Pedro,,,W,L,Light Heavyweight Bout,Submission,1,2:54,3 Rnd (5-5-5),John Sharp,Armbar From Half Guard,0,1,7 of 12,9 of 12,58%,75%,13 of 18,10 of 13,0 of 1,0 of 4,0%,0%,1,1,0,0,0:34,1:19,0,1,7 of 12,9 of 12,58%,75%,13 of 18,10 of 13,0 of 1,0 of 4,0%,0%,1,1,0,0,0:34,1:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5 of 9,5 of 6,2 of 3,3 of 4,0 of 0,1 of 2,4 of 8,6 of 8,0 of 0,3 of 4,3 of 4,0 of 0,5 of 9,5 of 6,2 of 3,3 of 4,0 of 0,1 of 2,4 of 8,6 of 8,0 of 0,3 of 4,3 of 4,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/cd6b799ec79c489a,"
+      August 03, 2019
+    ","
+
+      Newark, New Jersey, USA
+    ",Darko Stosic,Kennedy Nzechukwu,,"""African Savage""",L,W,Light Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Gary Copeland,,0,0,60 of 134,50 of 123,44%,40%,63 of 137,50 of 123,4 of 10,0 of 0,40%,---,0,0,0,0,2:09,0:00,0,0,29 of 43,9 of 32,67%,28%,29 of 43,9 of 32,0 of 1,0 of 0,0%,---,0,0,0,0,0:20,0:00,0,0,15 of 43,26 of 54,34%,48%,15 of 43,26 of 54,1 of 1,0 of 0,100%,---,0,0,0,0,0:21,0:00,0,0,16 of 48,15 of 37,33%,40%,19 of 51,15 of 37,3 of 8,0 of 0,37%,---,0,0,0,0,1:28,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21 of 80,38 of 102,7 of 9,10 of 18,32 of 45,2 of 3,48 of 111,47 of 120,10 of 20,0 of 0,2 of 3,3 of 3,11 of 22,6 of 25,2 of 2,2 of 6,16 of 19,1 of 1,20 of 28,9 of 32,9 of 15,0 of 0,0 of 0,0 of 0,2 of 19,17 of 40,3 of 4,8 of 12,10 of 20,1 of 2,15 of 43,23 of 51,0 of 0,0 of 0,0 of 0,3 of 3,8 of 39,15 of 37,2 of 3,0 of 0,6 of 6,0 of 0,13 of 40,15 of 37,1 of 5,0 of 0,2 of 3,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/f09c3d8a26806761,"
+      January 21, 2023
+    ","
+
+      Rio de Janeiro, Rio de Janeiro, Brazil
+    ",Warlley Alves,Nicolas Dalby,,"""Danish Dynamite""",L,W,Welterweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Herb Dean,,0,0,66 of 144,119 of 248,45%,47%,75 of 153,167 of 298,1 of 3,0 of 1,33%,0%,0,0,0,0,2:09,4:02,0,0,18 of 35,35 of 74,51%,47%,25 of 42,51 of 91,0 of 0,0 of 0,---,---,0,0,0,0,0:34,1:39,0,0,18 of 37,31 of 73,48%,42%,20 of 39,52 of 95,1 of 2,0 of 1,50%,0%,0,0,0,0,1:19,0:53,0,0,30 of 72,53 of 101,41%,52%,30 of 72,64 of 112,0 of 1,0 of 0,0%,---,0,0,0,0,0:16,1:30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45 of 117,75 of 195,7 of 12,35 of 41,14 of 15,9 of 12,62 of 138,86 of 212,4 of 6,32 of 35,0 of 0,1 of 1,7 of 22,19 of 51,4 of 5,13 of 17,7 of 8,3 of 6,16 of 32,20 of 58,2 of 3,15 of 16,0 of 0,0 of 0,11 of 29,22 of 62,1 of 2,5 of 7,6 of 6,4 of 4,17 of 36,25 of 67,1 of 1,5 of 5,0 of 0,1 of 1,27 of 66,34 of 82,2 of 5,17 of 17,1 of 1,2 of 2,29 of 70,41 of 87,1 of 2,12 of 14,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/b4db19e62f087a7f,"
+      February 23, 2013
+    ","
+
+      Anaheim, California, USA
+    ",Josh Koscheck,Robbie Lawler,,"""Ruthless""",L,W,Welterweight Bout,KO/TKO,1,3:57,3 Rnd (5-5-5),Herb Dean,Punches to Head On Ground,0,0,2 of 4,9 of 15,50%,60%,5 of 7,16 of 22,2 of 6,0 of 0,33%,---,0,0,0,0,3:14,0:14,0,0,2 of 4,9 of 15,50%,60%,5 of 7,16 of 22,2 of 6,0 of 0,33%,---,0,0,0,0,3:14,0:14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 of 3,7 of 13,1 of 1,2 of 2,0 of 0,0 of 0,0 of 2,0 of 4,0 of 0,2 of 2,2 of 2,7 of 9,1 of 3,7 of 13,1 of 1,2 of 2,0 of 0,0 of 0,0 of 2,0 of 4,0 of 0,2 of 2,2 of 2,7 of 9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/72a3ec0672871ab4,"
+      November 17, 2012
+    ","
+
+      Montreal, Quebec, Canada
+    ",Patrick Cote,Alessio Sakara,"""The Predator""","""Legionarius""",W,L,Middleweight Bout,DQ,1,1:26,3 Rnd (5-5-5),Dan Miragliotta,Punches to Back of Head by Sakara,0,1,14 of 33,24 of 34,42%,70%,14 of 33,24 of 34,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:13,0,1,14 of 33,24 of 34,42%,70%,14 of 33,24 of 34,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9 of 27,19 of 26,3 of 3,5 of 8,2 of 3,0 of 0,8 of 23,3 of 10,6 of 10,12 of 14,0 of 0,9 of 10,9 of 27,19 of 26,3 of 3,5 of 8,2 of 3,0 of 0,8 of 23,3 of 10,6 of 10,12 of 14,0 of 0,9 of 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/b48a211abe177846,"
+      June 24, 2006
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Michael Bisping,Josh Haynes,"""The Count""","""Bring the Pain""",W,L,Ultimate Fighter 3 Light Heavyweight Tournament Title Bout,KO/TKO,2,4:14,3 Rnd (5-5-5),John McCarthy,Punches to Head In Clinch,2,0,41 of 61,8 of 22,67%,36%,52 of 72,16 of 30,4 of 5,0 of 1,80%,0%,4,0,0,1,5:29,0:53,1,0,22 of 29,6 of 16,75%,37%,27 of 34,13 of 23,2 of 3,0 of 1,66%,0%,1,0,0,1,3:13,0:06,1,0,19 of 32,2 of 6,59%,33%,25 of 38,3 of 7,2 of 2,0 of 0,100%,---,3,0,0,0,2:16,0:47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25 of 43,5 of 19,13 of 14,3 of 3,3 of 4,0 of 0,9 of 17,3 of 12,19 of 26,5 of 8,13 of 18,0 of 2,11 of 17,3 of 13,10 of 10,3 of 3,1 of 2,0 of 0,6 of 11,2 of 9,12 of 13,4 of 7,4 of 5,0 of 0,14 of 26,2 of 6,3 of 4,0 of 0,2 of 2,0 of 0,3 of 6,1 of 3,7 of 13,1 of 1,9 of 13,0 of 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/6e3139f066149a81,"
+      May 13, 2017
+    ","
+
+      Dallas, Texas, USA
+    ",Demian Maia,Jorge Masvidal,,"""Gamebred""",W,L,Welterweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Kerry Hatley,,0,0,23 of 38,39 of 63,60%,61%,67 of 93,55 of 80,4 of 12,0 of 0,33%,---,0,0,1,0,8:53,0:53,0,0,6 of 8,19 of 29,75%,65%,35 of 43,24 of 34,3 of 5,0 of 0,60%,---,0,0,0,0,3:49,0:19,0,0,9 of 16,11 of 18,56%,61%,12 of 22,15 of 22,0 of 6,0 of 0,0%,---,0,0,1,0,2:36,0:34,0,0,8 of 14,9 of 16,57%,56%,20 of 28,16 of 24,1 of 1,0 of 0,100%,---,0,0,0,0,2:28,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22 of 37,27 of 48,0 of 0,7 of 9,1 of 1,5 of 6,2 of 11,15 of 29,6 of 8,6 of 6,15 of 19,18 of 28,6 of 8,15 of 24,0 of 0,4 of 5,0 of 0,0 of 0,0 of 0,0 of 1,6 of 8,3 of 3,0 of 0,16 of 25,8 of 15,6 of 11,0 of 0,1 of 2,1 of 1,4 of 5,1 of 5,6 of 13,0 of 0,3 of 3,8 of 11,2 of 2,8 of 14,6 of 13,0 of 0,2 of 2,0 of 0,1 of 1,1 of 6,9 of 15,0 of 0,0 of 0,7 of 8,0 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/7d583e4002622848,"
+      May 20, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Orion Cosce,Gilbert Urbina,"""Galaxy""","""The RGV Bad Boy""",L,W,Welterweight Bout,KO/TKO,2,2:55,3 Rnd (5-5-5),Kerry Hatley,Kick to Body At Distance,0,1,16 of 32,51 of 82,50%,62%,28 of 48,100 of 139,0 of 0,2 of 2,---,100%,0,1,0,0,0:05,3:06,0,0,10 of 18,34 of 47,55%,72%,22 of 34,83 of 104,0 of 0,2 of 2,---,100%,0,1,0,0,0:05,3:06,0,1,6 of 14,17 of 35,42%,48%,6 of 14,17 of 35,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9 of 23,31 of 56,3 of 5,12 of 16,4 of 4,8 of 10,14 of 29,27 of 55,1 of 2,4 of 4,1 of 1,20 of 23,7 of 15,23 of 34,1 of 1,9 of 10,2 of 2,2 of 3,8 of 15,11 of 21,1 of 2,3 of 3,1 of 1,20 of 23,2 of 8,8 of 22,2 of 4,3 of 6,2 of 2,6 of 7,6 of 14,16 of 34,0 of 0,1 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/040f9c9b470f3e6b,"
+      October 29, 2011
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Hatsu Hioki,George Roop,,,W,L,Featherweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Josh Rosenthal,,0,0,24 of 49,35 of 104,48%,33%,58 of 84,90 of 164,2 of 7,2 of 2,28%,100%,0,0,0,0,6:51,3:33,0,0,7 of 19,18 of 49,36%,36%,14 of 27,26 of 57,1 of 5,0 of 0,20%,---,0,0,0,0,2:42,0:24,0,0,12 of 21,7 of 33,57%,21%,29 of 38,30 of 57,1 of 1,0 of 0,100%,---,0,0,0,0,3:23,0:00,0,0,5 of 9,10 of 22,55%,45%,15 of 19,34 of 50,0 of 1,2 of 2,0%,100%,0,0,0,0,0:46,3:09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13 of 35,20 of 78,6 of 9,11 of 18,5 of 5,4 of 8,11 of 32,22 of 84,6 of 8,9 of 14,7 of 9,4 of 6,2 of 12,12 of 40,1 of 3,3 of 5,4 of 4,3 of 4,4 of 15,13 of 42,3 of 4,4 of 5,0 of 0,1 of 2,8 of 17,4 of 25,3 of 3,2 of 7,1 of 1,1 of 1,6 of 13,7 of 31,0 of 0,0 of 2,6 of 8,0 of 0,3 of 6,4 of 13,2 of 3,6 of 6,0 of 0,0 of 3,1 of 4,2 of 11,3 of 4,5 of 7,1 of 1,3 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/cf13dd810b2bd061,"
+      March 19, 2016
+    ","
+
+      Brisbane, Queensland, Australia
+    ",James Te Huna,Steve Bosse,,"""The Boss""",L,W,Light Heavyweight Bout,KO/TKO,1,0:52,3 Rnd (5-5-5),Marc Goddard,Punch to Head In Clinch,0,1,1 of 7,5 of 12,14%,41%,1 of 7,5 of 12,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:01,0,1,1 of 7,5 of 12,14%,41%,1 of 7,5 of 12,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0 of 4,3 of 8,1 of 3,1 of 3,0 of 0,1 of 1,1 of 7,5 of 12,0 of 0,0 of 0,0 of 0,0 of 0,0 of 4,3 of 8,1 of 3,1 of 3,0 of 0,1 of 1,1 of 7,5 of 12,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/75e21e2f5f3be42e,"
+      June 18, 2016
+    ","
+
+      Ottawa, Ontario, Canada
+    ",Rory MacDonald,Stephen Thompson,"""Red King""","""Wonderboy""",L,W,Welterweight Bout,Decision - Unanimous,5,5:00,5 Rnd (5-5-5-5-5),John McCarthy,,0,0,61 of 152,110 of 259,40%,42%,62 of 153,124 of 274,0 of 2,0 of 0,0%,---,0,0,0,0,0:08,1:48,0,0,4 of 13,9 of 21,30%,42%,4 of 13,11 of 23,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:36,0,0,6 of 24,13 of 40,25%,32%,6 of 24,14 of 41,0 of 1,0 of 0,0%,---,0,0,0,0,0:08,0:00,0,0,17 of 37,25 of 48,45%,52%,17 of 37,26 of 49,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:22,0,0,14 of 37,29 of 72,37%,40%,15 of 38,30 of 74,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,20 of 41,34 of 78,48%,43%,20 of 41,43 of 87,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:50,50 of 137,71 of 208,10 of 14,23 of 34,1 of 1,16 of 17,47 of 135,97 of 242,11 of 13,8 of 12,3 of 4,5 of 5,3 of 12,3 of 12,1 of 1,5 of 7,0 of 0,1 of 2,2 of 11,5 of 16,2 of 2,4 of 5,0 of 0,0 of 0,4 of 20,4 of 30,1 of 3,4 of 5,1 of 1,5 of 5,4 of 21,13 of 40,2 of 3,0 of 0,0 of 0,0 of 0,15 of 34,18 of 40,2 of 3,4 of 5,0 of 0,3 of 3,12 of 31,22 of 44,2 of 2,1 of 2,3 of 4,2 of 2,12 of 35,16 of 55,2 of 2,8 of 12,0 of 0,5 of 5,11 of 33,26 of 67,3 of 4,3 of 5,0 of 0,0 of 0,16 of 36,30 of 71,4 of 5,2 of 5,0 of 0,2 of 2,18 of 39,31 of 75,2 of 2,0 of 0,0 of 0,3 of 3,,
+http://ufcstats.com/fight-details/400aa8a24e1d8997,"
+      June 06, 2003
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Vitor Belfort,Marvin Eastman,"""The Phenom""","""The Beastman""",W,L,Light Heavyweight Bout,KO/TKO,1,1:07,3 Rnd (5-5-5),John McCarthy,Knees to Head In Clinch,1,0,9 of 12,1 of 5,75%,20%,9 of 12,1 of 5,0 of 0,0 of 0,---,---,0,0,0,0,0:03,0:00,1,0,9 of 12,1 of 5,75%,20%,9 of 12,1 of 5,0 of 0,0 of 0,---,---,0,0,0,0,0:03,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8 of 11,0 of 2,0 of 0,0 of 0,1 of 1,1 of 3,1 of 2,1 of 5,2 of 2,0 of 0,6 of 8,0 of 0,8 of 11,0 of 2,0 of 0,0 of 0,1 of 1,1 of 3,1 of 2,1 of 5,2 of 2,0 of 0,6 of 8,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a3b972117a3998ee,"
+      September 03, 2016
+    ","
+
+      Hamburg, Hamburg, Germany
+    ",Andrei Arlovski,Josh Barnett,"""The Pitbull""","""The Warmaster""",L,W,Heavyweight Bout,Submission,3,2:53,5 Rnd (5-5-5-5-5),Leon Roberts,Rear Naked Choke,0,0,38 of 62,53 of 82,61%,64%,51 of 77,112 of 150,1 of 2,1 of 2,50%,50%,0,1,0,1,2:22,6:32,0,0,16 of 28,8 of 16,57%,50%,25 of 37,25 of 37,1 of 1,0 of 1,100%,0%,0,0,0,0,1:40,1:41,0,0,7 of 9,28 of 39,77%,71%,11 of 15,66 of 81,0 of 1,0 of 0,0%,---,0,0,0,1,0:23,3:26,0,0,15 of 25,17 of 27,60%,62%,15 of 25,21 of 32,0 of 0,1 of 1,---,100%,0,1,0,0,0:19,1:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22 of 46,40 of 66,11 of 11,12 of 15,5 of 5,1 of 1,19 of 39,13 of 30,16 of 20,15 of 21,3 of 3,25 of 31,10 of 22,4 of 10,3 of 3,3 of 5,3 of 3,1 of 1,8 of 18,4 of 8,5 of 7,4 of 8,3 of 3,0 of 0,3 of 5,22 of 32,4 of 4,6 of 7,0 of 0,0 of 0,2 of 4,4 of 9,5 of 5,5 of 7,0 of 0,19 of 23,9 of 19,14 of 24,4 of 4,3 of 3,2 of 2,0 of 0,9 of 17,5 of 13,6 of 8,6 of 6,0 of 0,6 of 8,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/bef2a2e68fb4dfa8,"
+      April 21, 2018
+    ","
+
+      Atlantic City, New Jersey, USA
+    ",Justin Willis,Chase Sherman,"""Big Pretty""","""The Vanilla Gorilla""",W,L,Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Marc Goddard,,1,0,76 of 109,69 of 137,69%,50%,118 of 153,112 of 180,1 of 2,0 of 0,50%,---,0,0,0,0,3:00,2:02,1,0,38 of 55,17 of 39,69%,43%,47 of 64,27 of 49,0 of 0,0 of 0,---,---,0,0,0,0,0:32,0:44,0,0,21 of 29,21 of 42,72%,50%,48 of 57,41 of 62,1 of 1,0 of 0,100%,---,0,0,0,0,1:54,0:00,0,0,17 of 25,31 of 56,68%,55%,23 of 32,44 of 69,0 of 1,0 of 0,0%,---,0,0,0,0,0:34,1:18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68 of 101,34 of 90,8 of 8,24 of 33,0 of 0,11 of 14,53 of 82,53 of 120,6 of 7,15 of 16,17 of 20,1 of 1,34 of 51,7 of 28,4 of 4,6 of 7,0 of 0,4 of 4,21 of 34,16 of 38,5 of 6,1 of 1,12 of 15,0 of 0,19 of 27,10 of 26,2 of 2,5 of 8,0 of 0,6 of 8,16 of 24,20 of 41,0 of 0,0 of 0,5 of 5,1 of 1,15 of 23,17 of 36,2 of 2,13 of 18,0 of 0,1 of 2,16 of 24,17 of 41,1 of 1,14 of 15,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/0a70601cc9f2426f,"
+      November 09, 2013
+    ","
+
+      Goiania, Goias, Brazil
+    ",Godofredo Pepey,Sam Sicilia,,,L,W,Featherweight Bout,KO/TKO,1,1:42,3 Rnd (5-5-5),Dan Miragliotta,Punches to Head From Guard,0,0,3 of 5,11 of 15,60%,73%,4 of 6,18 of 22,0 of 2,1 of 1,0%,100%,0,0,0,0,0:11,0:54,0,0,3 of 5,11 of 15,60%,73%,4 of 6,18 of 22,0 of 2,1 of 1,0%,100%,0,0,0,0,0:11,0:54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3 of 5,11 of 14,0 of 0,0 of 1,0 of 0,0 of 0,1 of 3,0 of 1,2 of 2,0 of 0,0 of 0,11 of 14,3 of 5,11 of 14,0 of 0,0 of 1,0 of 0,0 of 0,1 of 3,0 of 1,2 of 2,0 of 0,0 of 0,11 of 14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/b6d027c60f879e4a,"
+      June 08, 2013
+    ","
+
+      Fortaleza, Ceara, Brazil
+    ",Ildemar Alcantara,Leandro Silva,"""Marajo""","""Buscape""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Marc Goddard,,0,0,33 of 105,50 of 87,31%,57%,56 of 134,63 of 100,3 of 3,0 of 6,100%,0%,0,0,0,0,3:03,1:18,0,0,8 of 20,5 of 9,40%,55%,22 of 38,15 of 19,1 of 1,0 of 2,100%,0%,0,0,0,0,1:21,1:02,0,0,13 of 46,19 of 35,28%,54%,13 of 46,19 of 35,0 of 0,0 of 1,---,0%,0,0,0,0,0:08,0:00,0,0,12 of 39,26 of 43,30%,60%,21 of 50,29 of 46,2 of 2,0 of 3,100%,0%,0,0,0,0,1:34,0:16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17 of 89,19 of 46,14 of 14,6 of 13,2 of 2,25 of 28,30 of 99,49 of 86,2 of 3,1 of 1,1 of 3,0 of 0,3 of 15,2 of 6,5 of 5,0 of 0,0 of 0,3 of 3,6 of 17,5 of 9,1 of 2,0 of 0,1 of 1,0 of 0,8 of 41,7 of 15,4 of 4,3 of 9,1 of 1,9 of 11,13 of 46,19 of 35,0 of 0,0 of 0,0 of 0,0 of 0,6 of 33,10 of 25,5 of 5,3 of 4,1 of 1,13 of 14,11 of 36,25 of 42,1 of 1,1 of 1,0 of 2,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/37d988593cb5f14a,"
+      December 11, 2010
+    ","
+
+      Montreal, Quebec, Canada
+    ",Matthew Riddle,Sean Pierson,"""Deep Waters""","""The Punisher""",L,W,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Yves Lavigne,,0,1,35 of 258,112 of 253,13%,44%,41 of 266,148 of 295,0 of 2,1 of 3,0%,33%,1,1,0,0,0:44,3:42,0,1,5 of 53,48 of 81,9%,59%,5 of 53,71 of 109,0 of 0,1 of 1,---,100%,0,1,0,0,0:00,2:30,0,0,11 of 72,25 of 61,15%,40%,17 of 80,35 of 72,0 of 1,0 of 1,0%,0%,1,0,0,0,0:44,0:30,0,0,19 of 133,39 of 111,14%,35%,19 of 133,42 of 114,0 of 1,0 of 1,0%,0%,0,0,0,0,0:00,0:42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31 of 248,86 of 215,1 of 7,15 of 24,3 of 3,11 of 14,31 of 249,86 of 218,1 of 4,15 of 21,3 of 5,11 of 14,4 of 49,28 of 57,0 of 3,12 of 13,1 of 1,8 of 11,5 of 52,23 of 49,0 of 1,14 of 18,0 of 0,11 of 14,10 of 70,24 of 57,0 of 1,0 of 3,1 of 1,1 of 1,8 of 67,25 of 61,0 of 0,0 of 0,3 of 5,0 of 0,17 of 129,34 of 101,1 of 3,3 of 8,1 of 1,2 of 2,18 of 130,38 of 108,1 of 3,1 of 3,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/90e5169190971647,"
+      January 18, 2015
+    ","
+
+      Boston, Massachusetts, USA
+    ",John Howard,Lorenz Larkin,"""Doomsday""","""The Monsoon""",L,W,Welterweight Bout,KO/TKO,1,2:17,3 Rnd (5-5-5),Herb Dean,Punch to Head At Distance,0,1,10 of 15,29 of 50,66%,58%,10 of 15,29 of 50,0 of 0,0 of 0,---,---,0,0,0,0,0:30,0:11,0,1,10 of 15,29 of 50,66%,58%,10 of 15,29 of 50,0 of 0,0 of 0,---,---,0,0,0,0,0:30,0:11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0 of 4,24 of 44,0 of 0,2 of 3,10 of 11,3 of 3,7 of 12,17 of 37,3 of 3,2 of 3,0 of 0,10 of 10,0 of 4,24 of 44,0 of 0,2 of 3,10 of 11,3 of 3,7 of 12,17 of 37,3 of 3,2 of 3,0 of 0,10 of 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/e1f77d40503e5259,"
+      April 10, 2010
+    ","
+
+      Abu Dhabi, United Arab Emirates
+    ",Alexander Gustafsson,Phil Davis,"""The Mauler""","""Mr. Wonderful""",L,W,Light Heavyweight Bout,Submission,1,4:55,3 Rnd (5-5-5),Dan Miragliotta,Anaconda Choke From Front Headlock,0,0,0 of 5,14 of 18,0%,77%,0 of 5,28 of 34,0 of 2,1 of 5,0%,20%,0,1,0,0,0:25,3:41,0,0,0 of 5,14 of 18,0%,77%,0 of 5,28 of 34,0 of 2,1 of 5,0%,20%,0,1,0,0,0:25,3:41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0 of 4,4 of 8,0 of 1,4 of 4,0 of 0,6 of 6,0 of 1,1 of 2,0 of 4,6 of 6,0 of 0,7 of 10,0 of 4,4 of 8,0 of 1,4 of 4,0 of 0,6 of 6,0 of 1,1 of 2,0 of 4,6 of 6,0 of 0,7 of 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/ccf3b6eda4c2a564,"
+      May 11, 2024
+    ","
+
+      St. Louis, Missouri, USA
+    ",JJ Aldrich,Veronica Hardy,,,L,W,Women's Flyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Josh Stewart,,0,0,27 of 63,36 of 78,42%,46%,38 of 76,69 of 113,0 of 2,0 of 0,0%,---,0,0,0,0,5:09,0:01,0,0,9 of 24,14 of 24,37%,58%,10 of 25,26 of 36,0 of 2,0 of 0,0%,---,0,0,0,0,1:34,0:01,0,0,8 of 18,15 of 35,44%,42%,10 of 20,21 of 41,0 of 0,0 of 0,---,---,0,0,0,0,1:12,0:00,0,0,10 of 21,7 of 19,47%,36%,18 of 31,22 of 36,0 of 0,0 of 0,---,---,0,0,0,0,2:23,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19 of 51,22 of 60,8 of 11,3 of 6,0 of 1,11 of 12,15 of 47,30 of 68,8 of 9,6 of 9,4 of 7,0 of 1,8 of 23,10 of 19,1 of 1,0 of 1,0 of 0,4 of 4,5 of 19,11 of 19,4 of 5,3 of 5,0 of 0,0 of 0,5 of 14,10 of 28,3 of 4,2 of 3,0 of 0,3 of 4,4 of 14,12 of 31,4 of 4,3 of 4,0 of 0,0 of 0,6 of 14,2 of 13,4 of 6,1 of 2,0 of 1,4 of 4,6 of 14,7 of 18,0 of 0,0 of 0,4 of 7,0 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/28c6de749d0d0e9d,"
+      May 18, 2024
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Piera Rodriguez,Ariane Carnelossi,"""La Fiera""","""Sorriso""",L,W,Women's Strawweight Bout,DQ,2,3:16,3 Rnd (5-5-5),Mark Smith,Headbutt by Rodriguez,1,0,40 of 81,16 of 49,49%,32%,51 of 102,46 of 89,1 of 2,0 of 0,50%,---,0,0,0,0,3:53,0:00,0,0,19 of 50,10 of 33,38%,30%,24 of 60,32 of 63,1 of 1,0 of 0,100%,---,0,0,0,0,1:22,0:00,1,0,21 of 31,6 of 16,67%,37%,27 of 42,14 of 26,0 of 1,0 of 0,0%,---,0,0,0,0,2:31,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34 of 73,13 of 43,6 of 8,2 of 2,0 of 0,1 of 4,22 of 60,12 of 43,11 of 13,4 of 6,7 of 8,0 of 0,18 of 49,9 of 29,1 of 1,0 of 0,0 of 0,1 of 4,14 of 43,9 of 31,2 of 3,1 of 2,3 of 4,0 of 0,16 of 24,4 of 14,5 of 7,2 of 2,0 of 0,0 of 0,8 of 17,3 of 12,9 of 10,3 of 4,4 of 4,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/93fb6c7e590487f9,"
+      May 06, 2023
+    ","
+
+      Newark, New Jersey, USA
+    ",Joseph Holmes,Claudio Ribeiro,"""Uglyman Joe""",,L,W,Middleweight Bout,KO/TKO,2,3:21,3 Rnd (5-5-5),Gary Copeland,Punches to Head On Ground,0,1,17 of 24,37 of 63,70%,58%,22 of 29,60 of 91,1 of 2,1 of 1,50%,100%,0,0,0,0,2:30,3:07,0,0,12 of 16,19 of 29,75%,65%,15 of 19,39 of 52,1 of 1,1 of 1,100%,100%,0,0,0,0,1:36,2:11,0,1,5 of 8,18 of 34,62%,52%,7 of 10,21 of 39,0 of 1,0 of 0,0%,---,0,0,0,0,0:54,0:56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4 of 10,34 of 57,3 of 4,0 of 1,10 of 10,3 of 5,13 of 20,10 of 24,4 of 4,1 of 2,0 of 0,26 of 37,3 of 6,18 of 26,3 of 4,0 of 1,6 of 6,1 of 2,8 of 12,5 of 12,4 of 4,0 of 0,0 of 0,14 of 17,1 of 4,16 of 31,0 of 0,0 of 0,4 of 4,2 of 3,5 of 8,5 of 12,0 of 0,1 of 2,0 of 0,12 of 20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/569e0ba18701c305,"
+      March 16, 2024
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Gerald Meerschaert,Bryan Barberena,"""GM3""","""Bam Bam""",W,L,Middleweight Bout,Submission,2,4:23,3 Rnd (5-5-5),Herb Dean,Rear Naked Choke,0,0,11 of 17,12 of 37,64%,32%,30 of 36,25 of 50,3 of 7,0 of 0,42%,---,2,0,0,0,5:03,0:03,0,0,7 of 13,10 of 25,53%,40%,12 of 18,13 of 28,2 of 4,0 of 0,50%,---,0,0,0,0,2:15,0:03,0,0,4 of 4,2 of 12,100%,16%,18 of 18,12 of 22,1 of 3,0 of 0,33%,---,2,0,0,0,2:48,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7 of 12,9 of 29,2 of 3,0 of 0,2 of 2,3 of 8,11 of 17,10 of 34,0 of 0,0 of 0,0 of 0,2 of 3,4 of 9,7 of 18,1 of 2,0 of 0,2 of 2,3 of 7,7 of 13,8 of 22,0 of 0,0 of 0,0 of 0,2 of 3,3 of 3,2 of 11,1 of 1,0 of 0,0 of 0,0 of 1,4 of 4,2 of 12,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/164eb9071caf3fe8,"
+      May 24, 2014
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Jamie Varner,James Krause,,"""The""",L,W,Lightweight Bout,KO/TKO,1,5:00,3 Rnd (5-5-5),Jason Herzog,"to    
+      Ankle Injury",0,0,7 of 30,22 of 51,23%,43%,9 of 33,32 of 66,1 of 1,0 of 0,100%,---,0,0,0,1,0:35,2:18,0,0,7 of 30,22 of 51,23%,43%,9 of 33,32 of 66,1 of 1,0 of 0,100%,---,0,0,0,1,0:35,2:18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6 of 25,12 of 36,1 of 5,5 of 6,0 of 0,5 of 9,3 of 19,18 of 40,2 of 7,1 of 5,2 of 4,3 of 6,6 of 25,12 of 36,1 of 5,5 of 6,0 of 0,5 of 9,3 of 19,18 of 40,2 of 7,1 of 5,2 of 4,3 of 6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d684d8b02ab53031,"
+      June 19, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Casey O'Neill,Lara Procopio,"""King""",,W,L,Women's Flyweight Bout,Submission,3,2:54,3 Rnd (5-5-5),Chris Tognoni,Rear Naked Choke,0,0,71 of 129,41 of 65,55%,63%,176 of 246,76 of 103,1 of 2,2 of 5,50%,40%,2,0,0,0,5:42,2:50,0,0,26 of 67,32 of 50,38%,64%,34 of 77,63 of 82,0 of 1,1 of 3,0%,33%,0,0,0,0,0:36,1:50,0,0,38 of 50,5 of 10,76%,50%,68 of 84,8 of 15,0 of 0,1 of 2,---,50%,1,0,0,0,2:33,1:00,0,0,7 of 12,4 of 5,58%,80%,74 of 85,5 of 6,1 of 1,0 of 0,100%,---,1,0,0,0,2:33,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41 of 97,17 of 40,23 of 25,15 of 16,7 of 7,9 of 9,43 of 94,26 of 49,9 of 12,14 of 15,19 of 23,1 of 1,12 of 52,13 of 30,11 of 12,12 of 13,3 of 3,7 of 7,20 of 58,20 of 37,5 of 7,12 of 13,1 of 2,0 of 0,25 of 36,2 of 7,10 of 11,1 of 1,3 of 3,2 of 2,18 of 27,4 of 9,3 of 4,0 of 0,17 of 19,1 of 1,4 of 9,2 of 3,2 of 2,2 of 2,1 of 1,0 of 0,5 of 9,2 of 3,1 of 1,2 of 2,1 of 2,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/4b7ec02b39fc6f70,"
+      December 18, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Derrick Lewis,Chris Daukaus,"""The Black Beast""",,W,L,Heavyweight Bout,KO/TKO,1,3:36,5 Rnd (5-5-5-5-5),Mark Smith,Punches to Head In Clinch,1,0,14 of 28,10 of 19,50%,52%,14 of 28,10 of 19,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:00,1,0,14 of 28,10 of 19,50%,52%,14 of 28,10 of 19,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12 of 26,6 of 14,1 of 1,1 of 1,1 of 1,3 of 4,11 of 24,8 of 15,3 of 4,2 of 4,0 of 0,0 of 0,12 of 26,6 of 14,1 of 1,1 of 1,1 of 1,3 of 4,11 of 24,8 of 15,3 of 4,2 of 4,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/44502b8c5546fb12,"
+      November 21, 2015
+    ","
+
+      Monterrey, Nuevo Leon, Mexico
+    ",Vernon Ramos Ho,Alvaro Herrera Mendoza,,"""Chango""",L,W,Welterweight Bout,KO/TKO,1,0:30,3 Rnd (5-5-5),Dan Miragliotta,Punches to Head At Distance,0,1,2 of 8,4 of 9,25%,44%,2 of 8,4 of 9,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:01,0,1,2 of 8,4 of 9,25%,44%,2 of 8,4 of 9,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0 of 3,4 of 9,0 of 1,0 of 0,2 of 4,0 of 0,2 of 8,3 of 8,0 of 0,0 of 0,0 of 0,1 of 1,0 of 3,4 of 9,0 of 1,0 of 0,2 of 4,0 of 0,2 of 8,3 of 8,0 of 0,0 of 0,0 of 0,1 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/7685da6f627bd98f,"
+      March 14, 2015
+    ","
+
+      Dallas, Texas, USA
+    ",Roy Nelson,Alistair Overeem,"""Big Country""","""The Demolition Man""",L,W,Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Herb Dean,,1,0,23 of 77,62 of 84,29%,73%,23 of 77,62 of 84,0 of 4,0 of 2,0%,0%,0,0,0,0,0:34,0:00,0,0,11 of 25,25 of 28,44%,89%,11 of 25,25 of 28,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:00,0,0,5 of 29,18 of 29,17%,62%,5 of 29,18 of 29,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,0:00,1,0,7 of 23,19 of 27,30%,70%,7 of 23,19 of 27,0 of 3,0 of 1,0%,0%,0,0,0,0,0:34,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18 of 68,18 of 29,4 of 6,24 of 33,1 of 3,20 of 22,14 of 60,59 of 80,9 of 15,2 of 3,0 of 2,1 of 1,9 of 22,5 of 6,2 of 3,12 of 14,0 of 0,8 of 8,5 of 16,24 of 26,6 of 9,1 of 2,0 of 0,0 of 0,3 of 25,6 of 10,2 of 3,5 of 10,0 of 1,7 of 9,3 of 24,17 of 28,2 of 5,1 of 1,0 of 0,0 of 0,6 of 21,7 of 13,0 of 0,7 of 9,1 of 2,5 of 5,6 of 20,18 of 26,1 of 1,0 of 0,0 of 2,1 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/e7183e758f6b8bda,"
+      September 27, 2002
+    ","
+
+      Uncasville, Connecticut, USA
+    ",Matt Lindland,Ivan Salaverry,"""The Law""",,W,L,Middleweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Kipp Kollar,,0,0,16 of 63,32 of 70,25%,45%,85 of 145,50 of 89,6 of 9,0 of 2,66%,0%,0,0,0,1,7:58,0:36,0,0,2 of 9,4 of 5,22%,80%,32 of 42,14 of 15,2 of 3,0 of 0,66%,---,0,0,0,0,4:39,0:00,0,0,8 of 13,6 of 15,61%,40%,39 of 52,14 of 24,3 of 4,0 of 1,75%,0%,0,0,0,1,3:03,0:36,0,0,6 of 41,22 of 50,14%,44%,14 of 51,22 of 50,1 of 2,0 of 1,50%,0%,0,0,0,0,0:16,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14 of 58,4 of 37,0 of 2,10 of 11,2 of 3,18 of 22,6 of 43,27 of 62,4 of 8,5 of 8,6 of 12,0 of 0,1 of 8,0 of 0,0 of 0,2 of 2,1 of 1,2 of 3,0 of 2,3 of 4,2 of 2,1 of 1,0 of 5,0 of 0,8 of 13,1 of 9,0 of 0,4 of 4,0 of 0,1 of 2,0 of 2,3 of 9,2 of 4,3 of 6,6 of 7,0 of 0,5 of 37,3 of 28,0 of 2,4 of 5,1 of 2,15 of 17,6 of 39,21 of 49,0 of 2,1 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/049659c5a58ebb61,"
+      July 03, 2010
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Chris Leben,Yoshihiro Akiyama,"""The Crippler""",,W,L,Middleweight Bout,Submission,3,4:40,3 Rnd (5-5-5),Herb Dean,Triangle Choke From Bottom Guard,0,0,46 of 105,27 of 68,43%,39%,162 of 231,62 of 111,0 of 0,5 of 5,---,100%,4,1,0,0,0:23,8:33,0,0,11 of 29,3 of 15,37%,20%,30 of 49,12 of 25,0 of 0,3 of 3,---,100%,1,1,0,0,0:00,2:55,0,0,23 of 54,19 of 38,42%,50%,49 of 80,30 of 50,0 of 0,1 of 1,---,100%,1,0,0,0,0:23,1:55,0,0,12 of 22,5 of 15,54%,33%,83 of 102,20 of 36,0 of 0,1 of 1,---,100%,2,0,0,0,0:00,3:43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31 of 78,24 of 63,3 of 6,1 of 2,12 of 21,2 of 3,37 of 91,21 of 55,4 of 8,1 of 4,5 of 6,5 of 9,4 of 15,1 of 12,2 of 3,0 of 0,5 of 11,2 of 3,9 of 27,3 of 12,2 of 2,0 of 2,0 of 0,0 of 1,19 of 46,18 of 36,0 of 2,1 of 2,4 of 6,0 of 0,22 of 49,17 of 35,1 of 5,1 of 2,0 of 0,1 of 1,8 of 17,5 of 15,1 of 1,0 of 0,3 of 4,0 of 0,6 of 15,1 of 8,1 of 1,0 of 0,5 of 6,4 of 7,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/e85e83ab4e60e768,"
+      August 04, 2018
+    ","
+
+      Los Angeles, California, USA
+    ",Matt Sayles,Sheymon Moraes,,,L,W,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Blake Grice,,0,0,77 of 235,73 of 172,32%,42%,79 of 237,77 of 177,0 of 3,0 of 4,0%,0%,0,0,0,0,1:07,0:03,0,0,16 of 60,22 of 50,26%,44%,16 of 60,23 of 51,0 of 1,0 of 1,0%,0%,0,0,0,0,0:39,0:03,0,0,25 of 77,30 of 72,32%,41%,25 of 77,30 of 72,0 of 2,0 of 0,0%,---,0,0,0,0,0:14,0:00,0,0,36 of 98,21 of 50,36%,42%,38 of 100,24 of 54,0 of 0,0 of 3,---,0%,0,0,0,0,0:14,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39 of 185,31 of 113,23 of 30,40 of 55,15 of 20,2 of 4,67 of 220,64 of 161,10 of 15,9 of 11,0 of 0,0 of 0,4 of 43,7 of 31,8 of 10,15 of 17,4 of 7,0 of 2,10 of 50,15 of 42,6 of 10,7 of 8,0 of 0,0 of 0,14 of 60,13 of 48,5 of 10,15 of 22,6 of 7,2 of 2,24 of 76,28 of 70,1 of 1,2 of 2,0 of 0,0 of 0,21 of 82,11 of 34,10 of 10,10 of 16,5 of 6,0 of 0,33 of 94,21 of 49,3 of 4,0 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/6c2199524d762b11,"
+      June 17, 2023
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Arman Tsarukyan,Joaquim Silva,"""Ahalkalakets""","""Netto BJJ""",W,L,Lightweight Bout,KO/TKO,3,3:25,3 Rnd (5-5-5),Keith Peterson,Punches to Head From Mount,0,0,80 of 115,23 of 41,69%,56%,134 of 175,77 of 96,4 of 5,0 of 0,80%,---,0,0,0,0,9:01,0:00,0,0,12 of 13,2 of 3,92%,66%,28 of 29,27 of 28,1 of 1,0 of 0,100%,---,0,0,0,0,4:26,0:00,0,0,33 of 57,16 of 30,57%,53%,39 of 63,41 of 56,1 of 1,0 of 0,100%,---,0,0,0,0,1:47,0:00,0,0,35 of 45,5 of 8,77%,62%,67 of 83,9 of 12,2 of 3,0 of 0,66%,---,0,0,0,0,2:48,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64 of 95,11 of 27,13 of 17,9 of 11,3 of 3,3 of 3,32 of 64,11 of 25,7 of 8,10 of 13,41 of 43,2 of 3,9 of 10,1 of 2,3 of 3,0 of 0,0 of 0,1 of 1,2 of 3,1 of 1,1 of 1,0 of 0,9 of 9,1 of 2,23 of 43,8 of 20,7 of 11,6 of 8,3 of 3,2 of 2,23 of 46,8 of 19,6 of 7,7 of 10,4 of 4,1 of 1,32 of 42,2 of 5,3 of 3,3 of 3,0 of 0,0 of 0,7 of 15,2 of 5,0 of 0,3 of 3,28 of 30,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/53febf2fb416f9de,"
+      May 19, 2018
+    ","
+
+      Santiago, Chile
+    ",Enrique Barzola,Brandon Davis,"""El Fuerte""","""Killer B""",W,L,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Leon Roberts,,0,0,51 of 94,29 of 87,54%,33%,89 of 149,39 of 102,10 of 15,0 of 1,66%,0%,1,0,0,0,7:13,0:53,0,0,17 of 33,15 of 35,51%,42%,24 of 40,18 of 39,3 of 7,0 of 0,42%,---,0,0,0,0,1:20,0:35,0,0,15 of 25,1 of 4,60%,25%,39 of 58,7 of 13,5 of 6,0 of 0,83%,---,1,0,0,0,4:02,0:18,0,0,19 of 36,13 of 48,52%,27%,26 of 51,14 of 50,2 of 2,0 of 1,100%,0%,0,0,0,0,1:51,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33 of 72,18 of 72,5 of 9,2 of 4,13 of 13,9 of 11,27 of 59,28 of 85,5 of 9,1 of 1,19 of 26,0 of 1,7 of 20,9 of 28,3 of 6,1 of 1,7 of 7,5 of 6,15 of 29,15 of 34,2 of 3,0 of 0,0 of 1,0 of 1,13 of 23,0 of 3,0 of 0,0 of 0,2 of 2,1 of 1,0 of 4,1 of 4,2 of 3,0 of 0,13 of 18,0 of 0,13 of 29,9 of 41,2 of 3,1 of 3,4 of 4,3 of 4,12 of 26,12 of 47,1 of 3,1 of 1,6 of 7,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/6ae10aa4c6dc986d,"
+      August 29, 2009
+    ","
+
+      Portland, Oregon, USA
+    ",Mike Russow,Justin McCully,,"""The Insane One""",W,L,Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Herb Dean,,0,0,21 of 36,11 of 58,58%,18%,87 of 111,35 of 83,8 of 11,0 of 0,72%,---,2,0,1,1,11:24,0:31,0,0,15 of 24,1 of 10,62%,10%,44 of 58,7 of 16,3 of 4,0 of 0,75%,---,0,0,1,1,3:58,0:31,0,0,6 of 10,5 of 11,60%,45%,27 of 32,6 of 12,2 of 2,0 of 0,100%,---,2,0,0,0,4:06,0:00,0,0,0 of 2,5 of 37,0%,13%,16 of 21,22 of 55,3 of 5,0 of 0,60%,---,0,0,0,0,3:20,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17 of 32,9 of 54,4 of 4,0 of 1,0 of 0,2 of 3,2 of 6,5 of 46,0 of 0,6 of 10,19 of 30,0 of 2,12 of 21,1 of 9,3 of 3,0 of 0,0 of 0,0 of 1,1 of 2,0 of 8,0 of 0,1 of 2,14 of 22,0 of 0,5 of 9,3 of 9,1 of 1,0 of 0,0 of 0,2 of 2,1 of 3,2 of 8,0 of 0,3 of 3,5 of 7,0 of 0,0 of 2,5 of 36,0 of 0,0 of 1,0 of 0,0 of 0,0 of 1,3 of 30,0 of 0,2 of 5,0 of 1,0 of 2,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/5116f9398bfca446,"
+      July 29, 2023
+    ","
+
+      Salt Lake City, Utah, USA
+    ",Roman Kopylov,Claudio Ribeiro,,,W,L,Middleweight Bout,KO/TKO,2,0:33,3 Rnd (5-5-5),Marc Goddard,Kick to Head At Distance,1,0,32 of 42,32 of 59,76%,54%,32 of 42,33 of 60,0 of 0,0 of 1,---,0%,0,0,0,0,0:03,0:16,0,0,30 of 39,31 of 57,76%,54%,30 of 39,32 of 58,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,0:16,1,0,2 of 3,1 of 2,66%,50%,2 of 3,1 of 2,0 of 0,0 of 0,---,---,0,0,0,0,0:03,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 of 29,18 of 45,9 of 10,7 of 7,3 of 3,7 of 7,29 of 38,29 of 56,2 of 3,3 of 3,1 of 1,0 of 0,18 of 26,18 of 44,9 of 10,7 of 7,3 of 3,6 of 6,28 of 36,28 of 54,2 of 3,3 of 3,0 of 0,0 of 0,2 of 3,0 of 1,0 of 0,0 of 0,0 of 0,1 of 1,1 of 2,1 of 2,0 of 0,0 of 0,1 of 1,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/3e4b8bd71e8bceb2,"
+      August 15, 2020
+    ","
+
+      Las Vegas, Nevada, USA
+    ",TJ Brown,Danny Chavez,"""Downtown""","""The Colombian Warrior""",L,W,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Dan Miragliotta,,0,0,43 of 139,49 of 110,30%,44%,59 of 156,52 of 113,0 of 6,4 of 4,0%,100%,0,0,0,0,1:03,2:05,0,0,12 of 42,17 of 36,28%,47%,12 of 42,17 of 36,0 of 1,0 of 0,0%,---,0,0,0,0,0:02,0:04,0,0,12 of 45,20 of 43,26%,46%,18 of 52,23 of 46,0 of 1,0 of 0,0%,---,0,0,0,0,0:10,0:59,0,0,19 of 52,12 of 31,36%,38%,29 of 62,12 of 31,0 of 4,4 of 4,0%,100%,0,0,0,0,0:51,1:02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25 of 103,23 of 81,12 of 24,8 of 9,6 of 12,18 of 20,38 of 132,40 of 97,5 of 7,0 of 0,0 of 0,9 of 13,4 of 29,4 of 21,5 of 9,1 of 2,3 of 4,12 of 13,12 of 42,17 of 35,0 of 0,0 of 0,0 of 0,0 of 1,7 of 33,13 of 35,3 of 5,4 of 4,2 of 7,3 of 4,12 of 45,14 of 35,0 of 0,0 of 0,0 of 0,6 of 8,14 of 41,6 of 25,4 of 10,3 of 3,1 of 1,3 of 3,14 of 45,9 of 27,5 of 7,0 of 0,0 of 0,3 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/071a1cd551b7b4d5,"
+      November 09, 2019
+    ","
+
+      Moscow, Moscow, Russia
+    ",Zelim Imadaev,Danny Roberts,,"""Hot Chocolate""",L,W,Welterweight Bout,KO/TKO,2,4:54,3 Rnd (5-5-5),Rich Mitchell,Punch to Head At Distance,0,1,28 of 71,37 of 61,39%,60%,38 of 84,42 of 68,1 of 1,1 of 8,100%,12%,0,0,0,0,2:30,2:19,0,0,15 of 42,18 of 28,35%,64%,18 of 48,21 of 31,0 of 0,1 of 4,---,25%,0,0,0,0,1:01,0:42,0,1,13 of 29,19 of 33,44%,57%,20 of 36,21 of 37,1 of 1,0 of 4,100%,0%,0,0,0,0,1:29,1:37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15 of 54,10 of 34,10 of 12,17 of 17,3 of 5,10 of 10,19 of 58,18 of 40,9 of 11,19 of 21,0 of 2,0 of 0,8 of 31,4 of 14,5 of 7,7 of 7,2 of 4,7 of 7,10 of 35,11 of 21,5 of 7,7 of 7,0 of 0,0 of 0,7 of 23,6 of 20,5 of 5,10 of 10,1 of 1,3 of 3,9 of 23,7 of 19,4 of 4,12 of 14,0 of 2,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/dc6a8ec4d6c477de,"
+      July 12, 1996
+    ","
+
+      Birmingham, Alabama, USA
+    ",Geza Kalman,Dieusel Berto,,,W,L,Open Weight Bout,KO/TKO,1,5:57,1 Rnd + OT (12-3),Joe Hamilton,Punches to Head At Distance,0,0,21 of 36,3 of 5,58%,60%,48 of 64,9 of 11,0 of 2,0 of 1,0%,0%,1,0,1,0,--,--,0,0,21 of 36,3 of 5,58%,60%,48 of 64,9 of 11,0 of 2,0 of 1,0%,0%,1,0,1,0,--,--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9 of 23,3 of 5,7 of 8,0 of 0,5 of 5,0 of 0,0 of 11,0 of 1,18 of 22,3 of 4,3 of 3,0 of 0,9 of 23,3 of 5,7 of 8,0 of 0,5 of 5,0 of 0,0 of 11,0 of 1,18 of 22,3 of 4,3 of 3,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/612333aaff795989,"
+      June 28, 2014
+    ","
+
+      San Antonio, Texas, USA
+    ",Aleksei Oleinik,Anthony Hamilton,"""The Boa Constrictor""","""Freight Train""",W,L,Heavyweight Bout,Submission,1,2:18,3 Rnd (5-5-5),Herb Dean,Scarf Hold From Side Control,0,0,10 of 22,6 of 14,45%,42%,13 of 26,6 of 14,1 of 4,0 of 1,25%,0%,1,0,0,0,0:42,0:17,0,0,10 of 22,6 of 14,45%,42%,13 of 26,6 of 14,1 of 4,0 of 1,25%,0%,1,0,0,0,0:42,0:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6 of 18,5 of 13,4 of 4,1 of 1,0 of 0,0 of 0,7 of 18,5 of 12,3 of 4,1 of 2,0 of 0,0 of 0,6 of 18,5 of 13,4 of 4,1 of 1,0 of 0,0 of 0,7 of 18,5 of 12,3 of 4,1 of 2,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/46b9acec12a35d37,"
+      September 17, 2022
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Trevin Giles,Louis Cosce,,,W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Chris Tognoni,,0,0,25 of 46,10 of 38,54%,26%,45 of 66,21 of 49,2 of 5,1 of 1,40%,100%,0,1,0,0,2:09,3:36,0,0,13 of 21,2 of 18,61%,11%,13 of 21,2 of 18,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,12 of 24,7 of 17,50%,41%,18 of 30,7 of 17,0 of 3,0 of 0,0%,---,0,0,0,0,1:00,0:00,0,0,0 of 1,1 of 3,0%,33%,14 of 15,12 of 14,2 of 2,1 of 1,100%,100%,0,1,0,0,1:09,3:36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10 of 29,5 of 29,2 of 4,3 of 5,13 of 13,2 of 4,25 of 45,9 of 37,0 of 1,1 of 1,0 of 0,0 of 0,4 of 12,0 of 14,1 of 1,1 of 2,8 of 8,1 of 2,13 of 21,2 of 18,0 of 0,0 of 0,0 of 0,0 of 0,6 of 16,4 of 12,1 of 3,2 of 3,5 of 5,1 of 2,12 of 24,7 of 17,0 of 0,0 of 0,0 of 0,0 of 0,0 of 1,1 of 3,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 2,0 of 1,1 of 1,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/f67fa758cc79cd65,"
+      January 11, 2002
+    ","
+
+      Uncasville, Connecticut, USA
+    ",Kevin Randleman,Renato Sobral,"""The Monster""","""Babalu""",W,L,Light Heavyweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),John McCarthy,,0,0,18 of 39,2 of 3,46%,66%,72 of 100,24 of 26,1 of 1,0 of 0,100%,---,0,5,0,0,12:47,0:00,0,0,4 of 12,1 of 2,33%,50%,32 of 41,6 of 7,1 of 1,0 of 0,100%,---,0,0,0,0,3:56,0:00,0,0,5 of 10,1 of 1,50%,100%,10 of 15,15 of 16,0 of 0,0 of 0,---,---,0,5,0,0,4:34,0:00,0,0,9 of 17,0 of 0,52%,---,30 of 44,3 of 3,0 of 0,0 of 0,---,---,0,0,0,0,4:17,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18 of 39,1 of 2,0 of 0,0 of 0,0 of 0,1 of 1,0 of 0,0 of 1,0 of 0,1 of 1,18 of 39,1 of 1,4 of 12,0 of 1,0 of 0,0 of 0,0 of 0,1 of 1,0 of 0,0 of 1,0 of 0,1 of 1,4 of 12,0 of 0,5 of 10,1 of 1,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,5 of 10,1 of 1,9 of 17,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,0 of 0,9 of 17,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a29236fcb395f443,"
+      December 12, 2009
+    ","
+
+      Memphis, Tennessee, USA
+    ",Stefan Struve,Paul Buentello,"""Skyscraper""","""The Headhunter""",W,L,Heavyweight Bout,Decision - Majority,3,5:00,3 Rnd (5-5-5),Dan Miragliotta,,0,1,54 of 115,37 of 89,46%,41%,91 of 157,43 of 98,1 of 1,0 of 0,100%,---,2,0,0,1,5:50,1:53,0,0,6 of 11,6 of 12,54%,50%,37 of 47,9 of 17,1 of 1,0 of 0,100%,---,2,0,0,1,3:32,0:52,0,1,20 of 47,20 of 40,42%,50%,26 of 53,21 of 41,0 of 0,0 of 0,---,---,0,0,0,0,1:49,0:49,0,0,28 of 57,11 of 37,49%,29%,28 of 57,13 of 40,0 of 0,0 of 0,---,---,0,0,0,0,0:29,0:12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23 of 79,28 of 78,10 of 13,9 of 11,21 of 23,0 of 0,40 of 85,24 of 62,12 of 26,7 of 20,2 of 4,6 of 7,3 of 8,1 of 7,2 of 2,5 of 5,1 of 1,0 of 0,4 of 7,1 of 7,0 of 0,0 of 0,2 of 4,5 of 5,13 of 38,17 of 37,4 of 6,3 of 3,3 of 3,0 of 0,10 of 23,12 of 21,10 of 24,7 of 17,0 of 0,1 of 2,7 of 33,10 of 34,4 of 5,1 of 3,17 of 19,0 of 0,26 of 55,11 of 34,2 of 2,0 of 3,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/1765fc442ea03873,"
+      February 05, 2022
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Malcolm Gordon,Denys Bondar,"""X""","""Psycho""",W,L,Flyweight Bout,KO/TKO,1,1:22,3 Rnd (5-5-5),Mark Smith,"to    
+      Arm Injury",0,0,3 of 11,4 of 5,27%,80%,6 of 15,4 of 5,1 of 1,1 of 1,100%,100%,1,0,1,0,0:15,0:37,0,0,3 of 11,4 of 5,27%,80%,6 of 15,4 of 5,1 of 1,1 of 1,100%,100%,1,0,1,0,0:15,0:37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3 of 11,2 of 3,0 of 0,0 of 0,0 of 0,2 of 2,3 of 11,4 of 5,0 of 0,0 of 0,0 of 0,0 of 0,3 of 11,2 of 3,0 of 0,0 of 0,0 of 0,2 of 2,3 of 11,4 of 5,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/2db0998b24c11ea0,"
+      May 04, 2024
+    ","
+
+      Rio de Janeiro, Rio de Janeiro, Brazil
+    ",Paul Craig,Caio Borralho,"""Bearjew""","""The Natural""",L,W,Middleweight Bout,KO/TKO,2,2:10,3 Rnd (5-5-5),Marc Goddard,Punches to Head At Distance,0,1,22 of 48,36 of 50,45%,72%,22 of 50,43 of 57,0 of 6,0 of 0,0%,---,0,0,0,0,0:30,0:19,0,0,15 of 29,20 of 30,51%,66%,15 of 31,27 of 37,0 of 5,0 of 0,0%,---,0,0,0,0,0:30,0:10,0,1,7 of 19,16 of 20,36%,80%,7 of 19,16 of 20,0 of 1,0 of 0,0%,---,0,0,0,0,0:00,0:09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4 of 19,29 of 41,12 of 23,3 of 5,6 of 6,4 of 4,22 of 48,35 of 49,0 of 0,1 of 1,0 of 0,0 of 0,3 of 9,14 of 22,8 of 16,2 of 4,4 of 4,4 of 4,15 of 29,19 of 29,0 of 0,1 of 1,0 of 0,0 of 0,1 of 10,15 of 19,4 of 7,1 of 1,2 of 2,0 of 0,7 of 19,16 of 20,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/5a2b86570110191b,"
+      July 30, 2022
+    ","
+
+      Dallas, Texas, USA
+    ",Don'Tale Mayes,Hamdy Abdelwahab,"""Lord Kong""","""The Hammer""",NC,NC,Heavyweight Bout,Overturned,3,5:00,3 Rnd (5-5-5),Kerry Hatley,,0,1,47 of 116,58 of 110,40%,52%,54 of 123,106 of 164,0 of 0,3 of 4,---,75%,0,0,0,0,0:00,6:36,0,1,11 of 40,21 of 40,27%,52%,11 of 40,44 of 67,0 of 0,1 of 2,---,50%,0,0,0,0,0:00,2:00,0,0,24 of 56,19 of 41,42%,46%,27 of 59,20 of 42,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:45,0,0,12 of 20,18 of 29,60%,62%,16 of 24,42 of 55,0 of 0,2 of 2,---,100%,0,0,0,0,0:00,3:51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28 of 90,51 of 102,12 of 17,5 of 6,7 of 9,2 of 2,45 of 111,30 of 74,2 of 5,2 of 3,0 of 0,26 of 33,6 of 31,19 of 37,2 of 4,1 of 2,3 of 5,1 of 1,11 of 40,13 of 30,0 of 0,2 of 2,0 of 0,6 of 8,14 of 44,14 of 36,6 of 8,4 of 4,4 of 4,1 of 1,22 of 51,13 of 32,2 of 5,0 of 0,0 of 0,6 of 9,8 of 15,18 of 29,4 of 5,0 of 0,0 of 0,0 of 0,12 of 20,4 of 12,0 of 0,0 of 1,0 of 0,14 of 16,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/d6482fcb69b04904,"
+      November 21, 2015
+    ","
+
+      Monterrey, Nuevo Leon, Mexico
+    ",Valmir Lazaro,Michel Prazeres,"""Bidu""","""Tractor""",L,W,Lightweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Gary Copeland,,0,0,41 of 102,20 of 53,40%,37%,60 of 123,27 of 60,0 of 0,1 of 14,---,7%,0,0,0,0,3:29,2:01,0,0,18 of 48,13 of 26,37%,50%,18 of 48,13 of 26,0 of 0,1 of 5,---,20%,0,0,0,0,0:00,0:12,0,0,7 of 18,5 of 13,38%,38%,17 of 30,9 of 17,0 of 0,0 of 5,---,0%,0,0,0,0,2:20,1:05,0,0,16 of 36,2 of 14,44%,14%,25 of 45,5 of 17,0 of 0,0 of 4,---,0%,0,0,0,0,1:09,0:44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29 of 87,12 of 41,2 of 5,2 of 5,10 of 10,6 of 7,41 of 101,20 of 53,0 of 0,0 of 0,0 of 1,0 of 0,10 of 38,9 of 21,1 of 3,0 of 0,7 of 7,4 of 5,18 of 48,13 of 26,0 of 0,0 of 0,0 of 0,0 of 0,4 of 14,2 of 10,1 of 2,2 of 2,2 of 2,1 of 1,7 of 18,5 of 13,0 of 0,0 of 0,0 of 0,0 of 0,15 of 35,1 of 10,0 of 0,0 of 3,1 of 1,1 of 1,16 of 35,2 of 14,0 of 0,0 of 0,0 of 1,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/f9536ea60551b840,"
+      December 09, 2017
+    ","
+
+      Fresno, California, USA
+    ",Chris Gruetzemacher,Davi Ramos,"""Gritz""","""Tasmanian Devil""",L,W,Lightweight Bout,Submission,3,0:50,3 Rnd (5-5-5),Mark Lawley,Rear Naked Choke,0,0,46 of 97,55 of 124,47%,44%,57 of 110,65 of 136,0 of 0,5 of 9,---,55%,0,1,0,0,0:15,3:53,0,0,16 of 33,20 of 53,48%,37%,25 of 44,26 of 61,0 of 0,1 of 2,---,50%,0,0,0,0,0:14,2:19,0,0,26 of 58,33 of 66,44%,50%,28 of 60,37 of 70,0 of 0,3 of 5,---,60%,0,0,0,0,0:00,1:04,0,0,4 of 6,2 of 5,66%,40%,4 of 6,2 of 5,0 of 0,1 of 2,---,50%,0,1,0,0,0:01,0:30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25 of 69,49 of 117,10 of 14,4 of 5,11 of 14,2 of 2,39 of 89,44 of 105,4 of 4,9 of 13,3 of 4,2 of 6,9 of 24,16 of 49,2 of 3,3 of 3,5 of 6,1 of 1,14 of 30,16 of 43,0 of 0,2 of 4,2 of 3,2 of 6,12 of 39,31 of 63,8 of 11,1 of 2,6 of 8,1 of 1,23 of 55,26 of 57,2 of 2,7 of 9,1 of 1,0 of 0,4 of 6,2 of 5,0 of 0,0 of 0,0 of 0,0 of 0,2 of 4,2 of 5,2 of 2,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/42a7d576dc207e63,"
+      September 19, 2009
+    ","
+
+      Dallas, Texas, USA
+    ",Jim Miller,Steve Lopez,"""A-10""",,W,L,Lightweight Bout,KO/TKO,2,0:48,3 Rnd (5-5-5),Don Turnage,"to    
+      Shoulder Injury",1,0,30 of 87,6 of 49,34%,12%,40 of 97,15 of 59,0 of 1,0 of 0,0%,---,1,0,0,0,2:18,0:00,1,0,29 of 77,5 of 38,37%,13%,39 of 87,14 of 48,0 of 1,0 of 0,0%,---,1,0,0,0,2:18,0:00,0,0,1 of 10,1 of 11,10%,9%,1 of 10,1 of 11,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23 of 76,4 of 42,0 of 4,2 of 7,7 of 7,0 of 0,18 of 64,6 of 47,1 of 1,0 of 2,11 of 22,0 of 0,23 of 68,3 of 32,0 of 3,2 of 6,6 of 6,0 of 0,17 of 54,5 of 36,1 of 1,0 of 2,11 of 22,0 of 0,0 of 8,1 of 10,0 of 1,0 of 1,1 of 1,0 of 0,1 of 10,1 of 11,0 of 0,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/221cb15141299346,"
+      January 04, 2014
+    ","
+
+      Singapore, Singapore
+    ",Kyung Ho Kang,Shunichi Shimizu,"""Mr. Perfect""",,W,L,Bantamweight Bout,Submission,3,3:53,3 Rnd (5-5-5),Steve Perceval,Arm Triangle From Mount,0,0,65 of 94,2 of 6,69%,33%,144 of 175,5 of 15,2 of 2,0 of 6,100%,0%,4,0,1,1,8:15,1:49,0,0,14 of 21,1 of 3,66%,33%,25 of 32,1 of 3,1 of 1,0 of 3,100%,0%,3,0,0,0,1:20,1:02,0,0,19 of 33,1 of 2,57%,50%,58 of 72,4 of 11,0 of 0,0 of 2,---,0%,0,0,1,1,3:41,0:39,0,0,32 of 40,0 of 1,80%,0%,61 of 71,0 of 1,1 of 1,0 of 1,100%,0%,1,0,0,0,3:14,0:08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59 of 86,0 of 1,1 of 1,0 of 2,5 of 7,2 of 3,7 of 22,2 of 6,1 of 1,0 of 0,57 of 71,0 of 0,11 of 17,0 of 1,0 of 0,0 of 0,3 of 4,1 of 2,5 of 11,1 of 3,0 of 0,0 of 0,9 of 10,0 of 0,17 of 30,0 of 0,0 of 0,0 of 1,2 of 3,1 of 1,2 of 8,1 of 2,1 of 1,0 of 0,16 of 24,0 of 0,31 of 39,0 of 0,1 of 1,0 of 1,0 of 0,0 of 0,0 of 3,0 of 1,0 of 0,0 of 0,32 of 37,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/0212461ac95ae690,"
+      June 26, 2011
+    ","
+
+      Pittsburgh, Pennsylvania, USA
+    ",Charlie Brenneman,Rick Story,"""The Spaniard""","""The Horror""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Mark Matheny,,0,0,11 of 26,17 of 46,42%,36%,70 of 86,61 of 91,5 of 8,2 of 4,62%,50%,0,4,1,0,9:42,2:47,0,0,9 of 13,7 of 15,69%,46%,51 of 55,13 of 21,1 of 3,2 of 4,33%,50%,0,0,0,0,3:23,0:37,0,0,1 of 7,4 of 13,14%,30%,18 of 25,17 of 26,2 of 2,0 of 0,100%,---,0,2,0,0,4:03,0:14,0,0,1 of 6,6 of 18,16%,33%,1 of 6,31 of 44,2 of 3,0 of 0,66%,---,0,2,1,0,2:16,1:56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9 of 23,9 of 35,1 of 2,6 of 8,1 of 1,2 of 3,3 of 9,7 of 27,3 of 10,5 of 13,5 of 7,5 of 6,7 of 11,3 of 9,1 of 1,2 of 3,1 of 1,2 of 3,1 of 2,2 of 7,3 of 4,3 of 5,5 of 7,2 of 3,1 of 6,1 of 9,0 of 1,3 of 4,0 of 0,0 of 0,1 of 5,3 of 10,0 of 2,0 of 2,0 of 0,1 of 1,1 of 6,5 of 17,0 of 0,1 of 1,0 of 0,0 of 0,1 of 2,2 of 10,0 of 4,2 of 6,0 of 0,2 of 2,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/a570acbbcbbd151d,"
+      January 11, 2010
+    ","
+
+      Fairfax, Virginia, USA
+    ",Amir Sadollah,Brad Blackburn,,"""Bad Brad""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Mario Yamasaki,,0,0,87 of 162,37 of 150,53%,24%,95 of 171,67 of 180,2 of 2,0 of 1,100%,0%,0,0,0,0,5:03,2:28,0,0,35 of 71,20 of 74,49%,27%,35 of 72,27 of 81,1 of 1,0 of 0,100%,---,0,0,0,0,0:29,0:26,0,0,30 of 58,17 of 68,51%,25%,34 of 62,39 of 90,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,2:02,0,0,22 of 33,0 of 8,66%,0%,26 of 37,1 of 9,1 of 1,0 of 0,100%,---,0,0,0,0,4:34,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40 of 106,19 of 120,29 of 36,7 of 17,18 of 20,11 of 13,57 of 112,31 of 135,12 of 25,6 of 15,18 of 25,0 of 0,17 of 48,9 of 59,11 of 14,4 of 7,7 of 9,7 of 8,30 of 57,19 of 70,4 of 13,1 of 4,1 of 1,0 of 0,8 of 32,10 of 54,13 of 17,3 of 9,9 of 9,4 of 5,23 of 48,12 of 57,7 of 10,5 of 11,0 of 0,0 of 0,15 of 26,0 of 7,5 of 5,0 of 1,2 of 2,0 of 0,4 of 7,0 of 8,1 of 2,0 of 0,17 of 24,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/6068385c48de6801,"
+      March 18, 2023
+    ","
+
+      London, England, United Kingdom
+    ",Jake Hadley,Malcolm Gordon,"""White Kong""","""X""",W,L,Flyweight Bout,KO/TKO,1,1:01,3 Rnd (5-5-5),Marc Goddard,Punch to Body At Distance,1,0,10 of 21,3 of 15,47%,20%,13 of 24,3 of 15,0 of 0,0 of 0,---,---,0,0,0,0,0:04,0:00,1,0,10 of 21,3 of 15,47%,20%,13 of 24,3 of 15,0 of 0,0 of 0,---,---,0,0,0,0,0:04,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7 of 18,1 of 13,2 of 2,0 of 0,1 of 1,2 of 2,5 of 15,3 of 15,0 of 0,0 of 0,5 of 6,0 of 0,7 of 18,1 of 13,2 of 2,0 of 0,1 of 1,2 of 2,5 of 15,3 of 15,0 of 0,0 of 0,5 of 6,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/eb23f3574b656624,"
+      May 23, 2009
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Frankie Edgar,Sean Sherk,"""The Answer""","""The Muscle Shark""",W,L,Lightweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Herb Dean,,0,0,74 of 191,27 of 204,38%,13%,76 of 193,30 of 207,1 of 7,1 of 3,14%,33%,1,0,0,0,0:45,0:25,0,0,27 of 61,12 of 61,44%,19%,29 of 63,15 of 64,1 of 3,0 of 0,33%,---,0,0,0,0,0:45,0:05,0,0,33 of 72,6 of 70,45%,8%,33 of 72,6 of 70,0 of 2,0 of 0,0%,---,0,0,0,0,0:00,0:00,0,0,14 of 58,9 of 73,24%,12%,14 of 58,9 of 73,0 of 2,1 of 3,0%,33%,1,0,0,0,0:00,0:20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44 of 152,22 of 197,22 of 25,3 of 5,8 of 14,2 of 2,68 of 184,25 of 198,6 of 7,2 of 6,0 of 0,0 of 0,13 of 43,9 of 58,9 of 11,2 of 2,5 of 7,1 of 1,25 of 59,11 of 59,2 of 2,1 of 2,0 of 0,0 of 0,23 of 59,6 of 69,8 of 8,0 of 1,2 of 5,0 of 0,30 of 68,6 of 69,3 of 4,0 of 1,0 of 0,0 of 0,8 of 50,7 of 70,5 of 6,1 of 2,1 of 2,1 of 1,13 of 57,8 of 70,1 of 1,1 of 3,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/ed707998b13d0101,"
+      May 06, 2023
+    ","
+
+      Newark, New Jersey, USA
+    ",Belal Muhammad,Gilbert Burns,"""Remember the Name""","""Durinho""",W,L,Welterweight Bout,Decision - Unanimous,5,5:00,5 Rnd (5-5-5-5-5),Keith Peterson,,0,0,132 of 283,81 of 147,46%,55%,132 of 283,81 of 147,0 of 0,0 of 4,---,0%,0,0,0,0,0:00,0:00,0,0,19 of 39,15 of 31,48%,48%,19 of 39,15 of 31,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,0:00,0,0,18 of 51,15 of 28,35%,53%,18 of 51,15 of 28,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,25 of 59,14 of 22,42%,63%,25 of 59,14 of 22,0 of 0,0 of 0,---,---,0,0,0,0,0:00,0:00,0,0,28 of 54,16 of 23,51%,69%,28 of 54,16 of 23,0 of 0,0 of 2,---,0%,0,0,0,0,0:00,0:00,0,0,42 of 80,21 of 43,52%,48%,42 of 80,21 of 43,0 of 0,0 of 1,---,0%,0,0,0,0,0:00,0:00,92 of 241,35 of 96,39 of 41,13 of 16,1 of 1,33 of 35,132 of 283,81 of 147,0 of 0,0 of 0,0 of 0,0 of 0,9 of 29,7 of 22,9 of 9,3 of 4,1 of 1,5 of 5,19 of 39,15 of 31,0 of 0,0 of 0,0 of 0,0 of 0,11 of 44,6 of 18,7 of 7,0 of 0,0 of 0,9 of 10,18 of 51,15 of 28,0 of 0,0 of 0,0 of 0,0 of 0,20 of 53,7 of 14,5 of 6,3 of 4,0 of 0,4 of 4,25 of 59,14 of 22,0 of 0,0 of 0,0 of 0,0 of 0,18 of 44,6 of 12,10 of 10,4 of 4,0 of 0,6 of 7,28 of 54,16 of 23,0 of 0,0 of 0,0 of 0,0 of 0,34 of 71,9 of 30,8 of 9,3 of 4,0 of 0,9 of 9,42 of 80,21 of 43,0 of 0,0 of 0,0 of 0,0 of 0,,
+http://ufcstats.com/fight-details/a4d8e991ec42b048,"
+      May 15, 1998
+    ","
+
+      Mobile, Alabama, USA
+    ",Pete Williams,Mark Coleman,"""El Duro""","""The Hammer""",W,L,Heavyweight Bout,KO/TKO,2,0:38,1 Rnd + OT (12-3),John McCarthy,Kick to Head At Distance,1,0,22 of 42,26 of 49,52%,53%,36 of 56,54 of 79,0 of 0,3 of 8,---,37%,1,0,0,0,--,--,0,0,13 of 27,26 of 45,48%,57%,27 of 41,54 of 75,0 of 0,3 of 6,---,50%,1,0,0,0,--,--,1,0,9 of 15,0 of 4,60%,0%,9 of 15,0 of 4,0 of 0,0 of 2,---,0%,0,0,0,0,--,--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13 of 32,23 of 46,2 of 2,1 of 1,7 of 8,2 of 2,14 of 30,6 of 18,6 of 10,6 of 7,2 of 2,14 of 24,5 of 18,23 of 42,2 of 2,1 of 1,6 of 7,2 of 2,7 of 19,6 of 14,5 of 7,6 of 7,1 of 1,14 of 24,8 of 14,0 of 4,0 of 0,0 of 0,1 of 1,0 of 0,7 of 11,0 of 4,1 of 3,0 of 0,1 of 1,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/8bcdcfb0f93f1409,"
+      December 11, 2021
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Randy Costa,Tony Kelley,"""The Zohan""","""Primetime""",L,W,Bantamweight Bout,KO/TKO,2,4:15,3 Rnd (5-5-5),Mark Smith,Elbows to Head From Half Guard,0,0,31 of 65,82 of 169,47%,48%,32 of 66,129 of 218,0 of 1,0 of 0,0%,---,0,0,0,0,2:29,3:26,0,0,16 of 37,35 of 90,43%,38%,17 of 38,50 of 105,0 of 0,0 of 0,---,---,0,0,0,0,1:28,1:43,0,0,15 of 28,47 of 79,53%,59%,15 of 28,79 of 113,0 of 1,0 of 0,0%,---,0,0,0,0,1:01,1:43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 of 54,26 of 93,11 of 11,43 of 62,0 of 0,13 of 14,19 of 53,27 of 93,12 of 12,32 of 42,0 of 0,23 of 34,8 of 29,6 of 48,8 of 8,23 of 35,0 of 0,6 of 7,8 of 29,17 of 64,8 of 8,18 of 26,0 of 0,0 of 0,12 of 25,20 of 45,3 of 3,20 of 27,0 of 0,7 of 7,11 of 24,10 of 29,4 of 4,14 of 16,0 of 0,23 of 34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/3f19bab8de698eb0,"
+      May 25, 2013
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Donald Cerrone,KJ Noons,"""Cowboy""","""King""",W,L,Lightweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Mario Yamasaki,,0,0,78 of 152,42 of 122,51%,34%,130 of 213,56 of 136,4 of 7,0 of 0,57%,---,0,0,0,0,5:48,0:00,0,0,29 of 63,20 of 60,46%,33%,29 of 63,20 of 60,1 of 2,0 of 0,50%,---,0,0,0,0,0:03,0:00,0,0,26 of 46,16 of 40,56%,40%,49 of 73,18 of 42,2 of 4,0 of 0,50%,---,0,0,0,0,1:58,0:00,0,0,23 of 43,6 of 22,53%,27%,52 of 77,18 of 34,1 of 1,0 of 0,100%,---,0,0,0,0,3:47,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51 of 115,17 of 71,15 of 23,13 of 28,12 of 14,12 of 23,51 of 112,41 of 121,5 of 6,1 of 1,22 of 34,0 of 0,13 of 42,7 of 32,6 of 10,3 of 10,10 of 11,10 of 18,27 of 61,20 of 60,2 of 2,0 of 0,0 of 0,0 of 0,18 of 35,8 of 25,6 of 9,7 of 13,2 of 2,1 of 2,17 of 32,15 of 39,3 of 4,1 of 1,6 of 10,0 of 0,20 of 38,2 of 14,3 of 4,3 of 5,0 of 1,1 of 3,7 of 19,6 of 22,0 of 0,0 of 0,16 of 24,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/ace166f26c2ac2e8,"
+      February 05, 2022
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Punahele Soriano,Nick Maximov,"""Puna""",,L,W,Middleweight Bout,Decision - Split,3,5:00,3 Rnd (5-5-5),Mark Smith,,0,0,45 of 63,29 of 45,71%,64%,74 of 93,60 of 82,0 of 0,11 of 16,---,68%,0,1,0,1,1:37,8:45,0,0,15 of 21,5 of 14,71%,35%,22 of 28,10 of 20,0 of 0,3 of 7,---,42%,0,1,0,0,0:40,2:16,0,0,21 of 32,13 of 19,65%,68%,32 of 43,19 of 27,0 of 0,3 of 4,---,75%,0,0,0,0,0:54,2:20,0,0,9 of 10,11 of 12,90%,91%,20 of 22,31 of 35,0 of 0,5 of 5,---,100%,0,0,0,1,0:03,4:09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28 of 46,19 of 33,17 of 17,6 of 8,0 of 0,4 of 4,20 of 38,15 of 31,2 of 2,10 of 10,23 of 23,4 of 4,11 of 17,2 of 9,4 of 4,3 of 5,0 of 0,0 of 0,6 of 12,5 of 14,1 of 1,0 of 0,8 of 8,0 of 0,16 of 27,11 of 17,5 of 5,2 of 2,0 of 0,0 of 0,14 of 25,8 of 14,1 of 1,5 of 5,6 of 6,0 of 0,1 of 2,6 of 7,8 of 8,1 of 1,0 of 0,4 of 4,0 of 1,2 of 3,0 of 0,5 of 5,9 of 9,4 of 4,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/f3efc6121c5323ff,"
+      July 15, 2020
+    ","
+
+      Abu Dhabi, Abu Dhabi, United Arab Emirates
+    ",Ricardo Ramos,Lerone Murphy,,"""The Miracle""",L,W,Featherweight Bout,KO/TKO,1,4:18,3 Rnd (5-5-5),Rich Mitchell,Punches to Head From Half Guard,0,0,10 of 29,22 of 40,34%,55%,10 of 29,24 of 42,0 of 2,1 of 2,0%,50%,0,0,0,0,0:57,1:22,0,0,10 of 29,22 of 40,34%,55%,10 of 29,24 of 42,0 of 2,1 of 2,0%,50%,0,0,0,0,0:57,1:22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3 of 17,14 of 32,1 of 3,5 of 5,6 of 9,3 of 3,7 of 25,3 of 12,1 of 2,2 of 3,2 of 2,17 of 25,3 of 17,14 of 32,1 of 3,5 of 5,6 of 9,3 of 3,7 of 25,3 of 12,1 of 2,2 of 3,2 of 2,17 of 25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/3f7c7917a57d2782,"
+      September 24, 2011
+    ","
+
+      Denver, Colorado, USA
+    ",Tony Ferguson,Aaron Riley,"""El Cucuy""",,W,L,Lightweight Bout,TKO - Doctor's Stoppage,1,5:00,3 Rnd (5-5-5),Tom Johnson,Jaw Injury,0,0,31 of 82,11 of 49,37%,22%,31 of 82,11 of 49,0 of 0,0 of 0,---,---,0,0,0,0,0:02,0:00,0,0,31 of 82,11 of 49,37%,22%,31 of 82,11 of 49,0 of 0,0 of 0,---,---,0,0,0,0,0:02,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22 of 67,3 of 35,6 of 8,4 of 7,3 of 7,4 of 7,29 of 79,11 of 49,2 of 3,0 of 0,0 of 0,0 of 0,22 of 67,3 of 35,6 of 8,4 of 7,3 of 7,4 of 7,29 of 79,11 of 49,2 of 3,0 of 0,0 of 0,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/1c4602efe5587902,"
+      December 19, 2020
+    ","
+
+      Las Vegas, Nevada, USA
+    ",Anthony Pettis,Alex Morono,"""Showtime""","""The Great White""",W,L,Welterweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Marc Goddard,,0,0,50 of 80,31 of 78,62%,39%,80 of 115,50 of 102,0 of 1,1 of 5,0%,20%,0,0,1,0,4:32,2:30,0,0,6 of 14,11 of 24,42%,45%,9 of 18,18 of 35,0 of 0,1 of 2,---,50%,0,0,1,0,0:31,2:30,0,0,32 of 51,17 of 46,62%,36%,32 of 51,17 of 46,0 of 1,0 of 1,0%,0%,0,0,0,0,0:03,0:00,0,0,12 of 15,3 of 8,80%,37%,39 of 46,15 of 21,0 of 0,0 of 2,---,0%,0,0,0,0,3:58,0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26 of 51,22 of 61,11 of 14,6 of 12,13 of 15,3 of 5,48 of 75,26 of 70,1 of 3,0 of 1,1 of 2,5 of 7,2 of 9,9 of 21,2 of 3,2 of 3,2 of 2,0 of 0,6 of 12,6 of 17,0 of 2,0 of 0,0 of 0,5 of 7,15 of 30,11 of 34,8 of 10,4 of 8,9 of 11,2 of 4,31 of 50,17 of 45,1 of 1,0 of 1,0 of 0,0 of 0,9 of 12,2 of 6,1 of 1,0 of 1,2 of 2,1 of 1,11 of 13,3 of 8,0 of 0,0 of 0,1 of 2,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/541e5c7a87712fc2,"
+      July 15, 2015
+    ","
+
+      San Diego, California, USA
+    ",Sam Sicilia,Yaotzin Meza,,,W,L,Featherweight Bout,Decision - Unanimous,3,5:00,3 Rnd (5-5-5),Jason Herzog,,0,0,12 of 41,18 of 37,29%,48%,33 of 66,39 of 60,2 of 2,1 of 9,100%,11%,4,1,0,0,8:26,1:30,0,0,3 of 8,1 of 3,37%,33%,7 of 14,11 of 15,1 of 1,0 of 1,100%,0%,2,1,0,0,3:58,0:26,0,0,5 of 22,11 of 24,22%,45%,8 of 25,14 of 27,0 of 0,1 of 6,---,16%,0,0,0,0,0:58,0:24,0,0,4 of 11,6 of 10,36%,60%,18 of 27,14 of 18,1 of 1,0 of 2,100%,0%,2,0,0,0,3:30,0:40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10 of 35,10 of 25,1 of 5,3 of 3,1 of 1,5 of 9,3 of 27,16 of 35,3 of 7,2 of 2,6 of 7,0 of 0,2 of 6,0 of 2,0 of 1,0 of 0,1 of 1,1 of 1,1 of 5,1 of 3,0 of 0,0 of 0,2 of 3,0 of 0,4 of 19,5 of 14,1 of 3,3 of 3,0 of 0,3 of 7,1 of 15,9 of 22,3 of 6,2 of 2,1 of 1,0 of 0,4 of 10,5 of 9,0 of 1,0 of 0,0 of 0,1 of 1,1 of 7,6 of 10,0 of 1,0 of 0,3 of 3,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/c827f5212a34bf2e,"
+      February 23, 2019
+    ","
+
+      Prague, Czech Republic
+    ",Daniel Teymur,Chris Fishgold,"""Kid Dynamite""",,L,W,Featherweight Bout,Submission,2,1:10,3 Rnd (5-5-5),Herb Dean,Rear Naked Choke,0,0,17 of 33,14 of 32,51%,43%,31 of 50,19 of 39,1 of 1,5 of 10,100%,50%,0,2,0,0,1:18,3:07,0,0,14 of 26,14 of 28,53%,50%,28 of 43,19 of 35,1 of 1,4 of 9,100%,44%,0,1,0,0,1:18,2:26,0,0,3 of 7,0 of 4,42%,0%,3 of 7,0 of 4,0 of 0,1 of 1,---,100%,0,1,0,0,0:00,0:41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14 of 29,13 of 31,3 of 3,1 of 1,0 of 1,0 of 0,7 of 20,8 of 21,1 of 2,4 of 5,9 of 11,2 of 6,13 of 25,13 of 27,1 of 1,1 of 1,0 of 0,0 of 0,4 of 13,8 of 18,1 of 2,4 of 5,9 of 11,2 of 5,1 of 4,0 of 4,2 of 2,0 of 0,0 of 1,0 of 0,3 of 7,0 of 3,0 of 0,0 of 0,0 of 0,0 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+http://ufcstats.com/fight-details/31fc4d5d5d1a6126,"
+      May 17, 1996
+    ","
+
+      Detroit, Michigan, USA
+    ",Cal Worsham,Zane Frazier,,"""Nasty""",W,L,Open Weight Bout,KO/TKO,1,3:14,1 Rnd + OT (12-3),John McCarthy,"Punches to Head From Half Guard
+      Submission to Strikes",0,0,9 of 11,1 of 2,81%,50%,29 of 33,1 of 2,1 of 1,0 of 0,100%,---,0,0,0,0,--,--,0,0,9 of 11,1 of 2,81%,50%,29 of 33,1 of 2,1 of 1,0 of 0,100%,---,0,0,0,0,--,--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6 of 6,0 of 1,2 of 2,1 of 1,1 of 3,0 of 0,1 of 3,1 of 2,0 of 0,0 of 0,8 of 8,0 of 0,6 of 6,0 of 1,2 of 2,1 of 1,1 of 3,0 of 0,1 of 3,1 of 2,0 of 0,0 of 0,8 of 8,0 of 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
