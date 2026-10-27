@@ -1,76 +1,123 @@
-# UFC Fight Data Analysis
+<h1 align="center">UFC Fight Data Scraping</h1>
 
-This project combines web scraping and data wrangling to analyze UFC fight statistics. It consists of two main Python scripts:
+<p align="center">
+  A Scrapy spider that collects fight-level and round-by-round stats for every UFC event on ufcstats.com, plus a script that cleans them into an analysis-ready table.
+</p>
 
-1. **Web Scraping**: Extract UFC fight data from ufcstats.com using Python
-2. **Data Wrangling**: Clean and transform the data for analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white" alt="Python 3.12">
+  <img src="https://img.shields.io/badge/scrapy-2.11%2B-60A839?logo=scrapy&logoColor=white" alt="Scrapy 2.11+">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"></a>
+</p>
 
-I plan to use this data in the future of other ML related projects.
+![Stacked bar chart of UFC fights per year from 1995 to 2024, split into decisions, KO/TKOs, submissions and other outcomes](images/fights_per_year.png)
 
-<img src="./Images/logo.png" width="300" alt="UFC Logo">
+## Overview
 
-## Scraped Data Description
-The dataset contains 8,066 UFC fights with comprehensive statistics. The data includes the following structure:
+[ufcstats.com](http://ufcstats.com) has detailed stats for every UFC fight, but no API or download. This project scrapes it into CSV files I can reuse in later ML projects.
 
-### Fight Details
-- Event information (date, location)
-- Fight metadata (division, method, referee, stoppage details)
-- Time format and round information
-- Fight outcome
+The saved data covers 724 events and 8,066 fights from July 14, 1995 to April 12, 2025. Across 1995 to 2024, 46.7% of fights went to a decision, 32.6% ended by KO/TKO, 19.4% by submission and 1.4% some other way (DQ, overturned, etc.).
 
-### Overall Fight Statistics
-For each fighter in a bout, the following statistics are collected:
-- Basic information (name, stage name, win/loss record)
-- Knockdowns (KD)
-- Significant strikes (landed, attempted, percentage)
-- Total strikes (landed, attempted)
-- Takedowns (landed, attempted, percentage)
-- Submission attempts
-- Reversals
-- Control time
+## What it collects
 
-### Round-by-Round Fight Statistics
-Detailed statistics for each round (up to 5 rounds) including:
-- Significant strikes by target (head, body, leg)
-- Significant strikes by position (distance, clinch, ground)
-- Knockdowns
-- Takedowns
-- Submission attempts
-- Reversals
-- Control time
+Each row in `scraped_fight_details.csv` is one fight, with fighter 1 and fighter 2 as `_1` and `_2` columns.
 
-## Installation
-To install dependencies, run:
-```sh
+- **Fight details.** Event date and location, fighter names, nicknames, win/loss, division, method, last round, time in the last round, time format, referee and stoppage details.
+- **Overall stats** for each fighter. Knockdowns, significant strikes (landed of attempted, and %), total strikes, takedowns (landed of attempted, and %), submission attempts, reversals and control time.
+- **Significant strikes by target and position** for each fighter. Head, body, leg, distance, clinch and ground.
+- **Round-by-round stats.** The overall stats and significant strike breakdown for rounds 1 to 5 (`r1_` to `r5_` columns). Rounds a fight didn't reach are empty.
+
+`scraped_event_links.csv` has the link to each event page.
+
+## How it works
+
+`scripts/web_scraping.py` runs one Scrapy spider in three steps:
+
+1. Open the completed events list and follow every event link.
+2. On each event page, read the date and location, then follow every fight link.
+3. On each fight page, read the fight details and the four stats tables (overall, overall by round, significant strikes, significant strikes by round) into one row.
+
+Fights with no stats tables (some 1990s fights) are kept with empty stats and `stats_available` set to false. Pages that fail to parse are saved with an `error` column instead of being dropped silently.
+
+`scripts/data_wrangling.py` turns the raw strings into numbers:
+
+- Splits every `X of Y` column into `_landed` and `_attempted` columns.
+- Converts percentages to fractions and `M:SS` times to seconds.
+- Parses dates, strips whitespace, drops error rows and duplicate fights.
+- Adds `time_format_rounds` and `total_fight_time_seconds`, using the round lengths from the time format (older fights had 10 to 20 minute rounds and overtime).
+
+`scripts/make_charts.py` makes the chart above from the wrangled data.
+
+## Usage
+
+```bash
+git clone https://github.com/Yahlawat/UFC_Data_WEBSCRAPING.git
+cd UFC_Data_WEBSCRAPING
+
+python3 -m venv .venv
+source .venv/bin/activate
+
 pip install -r requirements.txt
 ```
 
-## Project Structure
-```
-UFC_data_webscraping/
-├── Data/              # Data storage directory
-├── Images/            # Generated visualizations
-├── Scripts/           # Python scripts
-│   ├── web_scraping.py    # Web scraping implementation
-│   └── data_wrangling.py  # Data processing and analysis
-├── README.md          # Project documentation
-└── requirements.txt   # Dependencies
+The scraped data is already in `data/`, so you can skip straight to wrangling:
+
+```bash
+python scripts/data_wrangling.py
+python scripts/make_charts.py
 ```
 
-## Usage
-1. Run the web scraping script to collect data:
-```sh
-python Scripts/web_scraping.py
+To scrape fresh data (overwrites `data/scraped/`):
+
+```bash
+python scripts/web_scraping.py
 ```
 
-2. Process and analyze the data:
-```sh
-python Scripts/data_wrangling.py
-```
+A full run makes about 8,800 requests. At one request per second (see below) that takes around 2.5 hours.
 
-## Dependencies
-All required dependencies are listed in `requirements.txt`. 
+## Data
+
+| File | Rows | Columns | What it is |
+|------|-----:|--------:|------------|
+| `data/scraped/scraped_event_links.csv` | 724 | 1 | Event page links |
+| `data/scraped/scraped_fight_details.csv` | 8,090 | 198 | Raw scraped fights, all values as text |
+| `data/wrangled/wrangled_fight_details.csv` | 8,066 | 305 | Cleaned fights with numeric columns |
+
+The 24 rows dropped during wrangling are fights the old version of the spider couldn't parse: 19 from 1995 to 1998 (likely no stats tables on the page) and 5 from the April 12, 2025 event (likely stats not posted yet when it was scraped). The current spider keeps fights without stats instead of erroring.
+
+## Responsible scraping
+
+- **Rate limit.** One request per second at most (`DOWNLOAD_DELAY = 1`), two concurrent requests, and AutoThrottle to back off when the site slows down.
+- **Retries.** Failed requests are retried up to 3 times.
+- **Honest user agent.** The spider identifies itself with a link to this repo instead of pretending to be a browser.
+- **robots.txt.** `ROBOTSTXT_OBEY` is on.
+- **Terms.** The stats belong to the UFC. Read ufcstats.com's terms before scraping, keep runs infrequent, and use the saved CSVs when you can.
+
+## Limitations
+
+- **UFC 1 to 5 are missing.** The saved data was scraped with a fixed page count that cut off the oldest events (November 1993 to April 1995). The spider now loads every event on one page (`?page=all`), but the CSVs haven't been re-scraped yet.
+- **No judges' scores in the saved data.** The old spider only kept the last line of the details field, so `stoppage_details` is empty for every decision. The spider now saves the full scorecards, but this also needs a re-scrape.
+- **Tied to the page layout.** The parsers use CSS selectors and fixed column positions. If ufcstats.com changes its HTML, the spider will need updating.
+- **Fighter 1 isn't always the winner.** Fighter order follows the page, so use `win_loss_1` and `win_loss_2` for the result.
+- **Snapshot.** The data stops at April 12, 2025.
+
+## Project structure
+
+```
+.
+├── scripts/
+│   ├── web_scraping.py      # Scrapy spider, saves data/scraped/
+│   ├── data_wrangling.py    # Cleans the scraped data, saves data/wrangled/
+│   └── make_charts.py       # Saves the chart in images/
+├── data/
+│   ├── scraped/             # Raw scraped CSVs
+│   └── wrangled/            # Cleaned CSV
+├── images/                  # Charts
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 
 ## License
-This project is licensed under the MIT License.
 
+Released under the [MIT License](LICENSE).

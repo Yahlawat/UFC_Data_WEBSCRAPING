@@ -1,14 +1,4 @@
-# Core Data Handling
-pandas>=2.0.0
-numpy>=1.24.0
-
-# Web Scraping
-scrapy>=2.11.0
-requests>=2.31.0
-
-# System and Utilities
-os>=3.11.0
-datetime>=5.1.0
-
-# Text Processing
-re>=3.1.0
+pandas>=2.0
+numpy>=1.24
+scrapy>=2.11
+matplotlib>=3.8
